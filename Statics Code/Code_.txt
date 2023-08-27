@@ -45,7 +45,7 @@ library (rstanarm)
 
              ###############  DCYL    Dendrogyra cylindrus #################################################################################
 
-data7<-DCYLGLM2   ###### Load data: DCYLGLM.txt
+data7<-DCYLGLM2   ###### Load data: DCYLGLM.txt in carpet figure 2
 names(data7)
 class(data7$Status)
 data7$Status<- as.factor(data7$Status)
@@ -109,7 +109,7 @@ forestD2
 ###################################
 ###################################      PSTR Pseudodiploria strigosa    ###########################
 
-data10<-PSTRGLM  ###### Load data: PSTRGLM.txt
+data10<-PSTRGLM  ###### Load data: PSTRGLM.txt in carpet figure 2
 names(data10)
 class(data10$Status)
 data10$Status<- as.factor(data10$Status)
@@ -175,7 +175,7 @@ forestP2
 
 #####################################  SSID ########################################################
 
-data11<-SSIDGLM
+data11<-SSIDGLM ## Load data: SSIDGLM.txt in carpet figure 2
 names(data11)
 class(data11$Status)
 data11$Status<- as.factor(data11$Status)
@@ -237,7 +237,7 @@ forestS2
 ###########################
 ########################## OFAV   Orbicella faveolata   #####################################################################
 
-data12<-OFAVGLM
+data12<-OFAVGLM ## Load data: OFAVGLM.txt in carpet figure 2
 names(data12)
 class(data12$Status)
 data12$Status<- as.factor(data12$Status)
