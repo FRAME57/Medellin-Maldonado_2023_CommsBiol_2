@@ -15,7 +15,7 @@ R script, raw data, and html data
    * data.cvs
    * Figure3.png
 3. Statics code
-   *code.txt
+   * code.txt
 4. Files  
    * Surveys.csv
    
