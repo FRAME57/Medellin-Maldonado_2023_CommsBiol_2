@@ -1,0 +1,307 @@
+###################       Script paper     Medellin et al. 2023   #################################
+
+---
+Title: "Newly deceased Caribbean reef-building corals experience rapid carbonate loss and colonization by endolithic organisms"
+
+Authors: "Francisco Medellín-Maldonado, Israel Cruz-Ortega, Esmeralda Pérez-Cervantes, Orion Norzogaray-López, Juan P. Carricart-Ganivet, Andrés López-Pérez & Lorenzo Alvarez-Filip." 
+
+---
+  * This version of the script was last committed to GitHub on  August 2022*
+
+library(patchwork)
+library(ggplot2)
+library(tidyverse)     ## data wrangling + ggplot2
+library(colorspace)    ## adjust colors
+library(rcartocolor)   ## Carto palettes
+library(ggforce)       ## sina plots
+library(ggdist)        ## halfeye plots
+library(ggridges)      ## ridgeline plots
+library(ggbeeswarm)    ## beeswarm plots
+library(gghalves)      ## off-set jitter
+library(ggpubr)
+library(systemfonts)   ## custom fonts
+library(effects)
+library(jtools)
+library(sjPlot)
+library(dotwhisker)
+library(dplyr)
+library(performance)
+library(lme4)
+library(lsmeans)
+library(DHARMa)
+library(ggeffects)
+library(car)
+library(sjmisc)
+library(merTools)
+library(glmmTMB)
+library(MASS)
+library(RColorBrewer)
+library(lmerTest)
+library(stargazer)
+library(broom)
+library(modelsummary)
+library (arm)
+library (rstanarm)
+
+             ###############  DCYL    Dendrogyra cylindrus #################################################################################
+
+data7<-DCYLGLM2   ###### Load data: DCYLGLM.txt
+names(data7)
+class(data7$Status)
+data7$Status<- as.factor(data7$Status)
+levels(data7$Status)
+str(data7)
+summary(data7)
+#Changing the order of levels in sites trophic level data frame
+
+data7$Status<- factor(data7$Status, levels = c("live"  ,"dead_1yr", "dead_2yr"  ))
+
+
+#####################################  FIT MODELS ###################################
+
+M1D<- lmer(Density~Year*Status+Reef+(1|ID)+(1|Extension), data=data7)
+M2D<- lmer(Density~Year*Status+(1|Reef)+(1|ID)+(1|Extension), data=data7)
+M3D<- lmer(Density~Year*Status+(1|Reef)+(1+Status|ID)+(1|Extension), data=data7)
+M4D<- lmer(Density~Year*Status+Reef+(1+Status|ID)+(1|Extension), data=data7)
+
+#######################     STATICS
+
+summary(M2D)
+Anova(M2D)
+glance(M2D) 
+model_performance(M2D)
+tidy(M2D)
+######################################    PLOT      #####
+D1<-ggpredict(M2D, terms = c("Year", "Status"), type = "fe") %>% 
+  plot() +
+  theme_classic2(base_size = 15)+
+  labs(x = "", y = "Density", title = " i)")+
+  ylim(0, 2)+
+  scale_colour_manual(values = c( "blue","black" ,"brown")) +
+  scale_fill_manual(values = c( "blue","black", "brown"  ))
+#guides(color = "none")
+
+D1 
+
+D2<-ggpredict(M2D, terms = c("Status"), type = "fe") %>% 
+  plot(connect.lines = TRUE, ci.style = "errorbar", add.data = T, line.size=1, dot.size=1, dot.alpha = 0.7, colors = "#d1495b") +
+  theme_classic2(base_size = 15)+
+  labs(x = "", y = "Density", title = substitute(paste (italic("a)          Dendrogyra cylindrus"))))+
+  ylim(0, 2.5)+
+  scale_color_manual(values=brewer.pal(3,"YlOrRd"))+
+  scale_fill_manual(values=brewer.pal(3,"YlOrRd"))
+
+
+D2
+################################################ FOREST PLOT
+
+
+forestD2<-plot_model(M2D, type = c("est"),
+           colors = "#d1495b", show.intercept = T,show.data = TRUE,
+           dot.size = 3.5, line.size = 0.7, vline.color = "black",  width = 0,
+           bpe = "median")+
+  theme_classic2(base_size = 15) +
+  ylab("")+
+  ggtitle("e)") 
+
+forestD2
+
+###################################
+###################################      PSTR Pseudodiploria strigosa    ###########################
+
+data10<-PSTRGLM  ###### Load data: PSTRGLM.txt
+names(data10)
+class(data10$Status)
+data10$Status<- as.factor(data10$Status)
+levels(data10$Status)
+
+#Changing the order of levels in sites trophic level data frame
+
+data10$Status<- factor(data10$Status, levels = c("live", "dead"))
+
+
+######################FIT MODEL  PSTR #########################################################
+
+M1<- lmer(Density~Year*Status+Zone+(1|ID)+(1|Extension), data=data10)
+M2<- lmer(Density~Year*Status+(1|Zone)+(1|ID)+(1|Extension), data=data10)
+M3<- lmer(Density~Year*Status+(1|Zone)+(1+Status|ID)+(1|Extension), data=data10)
+M4<- lmer(Density~Year*Status+Zone+(1+Status|ID)+(1|Extension), data=data10)
+
+
+################### Statics
+summary(M2)
+Anova(M2)
+glance(M2) 
+model_performance(M2)
+
+##################################PLOT MODEL#####
+
+R1<-ggpredict(M2, terms = c("Year", "Status"), type = "fe") %>% 
+  plot() +
+  theme_classic2(base_size = 15)+
+  labs(x = "", y = "Density", title = " j)")+
+  ylim(0, 2)+
+  scale_colour_manual(values = c( "blue", "brown", "black", "red")) +
+  scale_fill_manual(values = c( "blue", "brown", "purple", "black"))+
+  guides(color = "none")
+
+R1
+
+
+PS1<-ggpredict(M2, terms = c("Status"), type = "fe") %>% 
+  plot(connect.lines = TRUE, ci.style = "errorbar", add.data = T, line.size=1, dot.size=1, dot.alpha = 0.7, colors = "#edae49") +
+  theme_classic2(base_size = 15)+
+  labs(x = "", y = "Density", title =substitute(paste (italic("b)      Pseudodiploria strigosa"))))+
+  ylim(0, 2.5)
+##scale_colour_manual(values = c( "blue", "black", "black", "red")) +
+##scale_fill_manual(values = c( "navy", "gray", "black"))
+
+PS1
+
+################################################ FOREST PLOT
+
+forestP2<-plot_model(M2, type = c("est"),
+           colors = "#edae49", show.intercept = T, show.data = TRUE,
+           dot.size = 3.5, line.size = 0.7, vline.color = "black",  width = 0
+           )+
+  ylab("")+
+  theme_classic2(base_size = 15) +
+  ggtitle(" f)") 
+
+
+forestP2
+
+
+
+#####################################  SSID ########################################################
+
+data11<-SSIDGLM
+names(data11)
+class(data11$Status)
+data11$Status<- as.factor(data11$Status)
+levels(data11$Status)
+
+#Changing the order of levels in sites trophic level data frame
+
+data11$Status<- factor(data11$Status, levels = c("live", "dead"))
+
+
+################## fiT model SSID##################################################################################
+
+M1S<- lmer(Density~Year*Status+Zone+(1|ID)+(1|Extension), data=data11)
+M2S<- lmer(Density~Year*Status+(1|Zone)+(1|ID)+(1|Extension), data=data11)
+M3S<- lmer(Density~Year*Status+(1|Zone)+(1+Status|ID)+(1|Extension), data=data11)
+M4S<- lmer(Density~Year*Status+Zone+(1+Status|ID)+(1|Extension), data=data11)
+
+######################### ESTADISTICAS
+summary(M2S)
+Anova(M2S)
+glance(M2S) 
+model_performance(M2S)
+
+#####################PLOT MODELS
+
+S1<-ggpredict(M2S, terms = c("Year", "Status"), type = "fe") %>% 
+  plot() +
+  theme_classic2(base_size = 15)+
+  labs(x = "", y = "Density", title = " k)")+
+  ylim(0, 2)+
+  scale_colour_manual(values = c("Blue", "brown", "green", "black", "red")) +
+  scale_fill_manual(values = c( "Blue", "brown", "purple", "black"))+
+  guides(color = "none")
+
+S1
+
+
+S2<-ggpredict(M2S, terms = c( "Status"), type = "fe") %>% 
+  plot(connect.lines = TRUE, ci.style = "errorbar", add.data = T, line.size=1, dot.size=1, dot.alpha = 0.35, colors = "#00798c") +
+  theme_classic2(base_size = 15)+
+  labs(x = "", y = "Density", title = substitute(paste (italic("c)      Siderastrea siderea"))))+
+  ylim(0, 2.5)
+S2
+
+################################################ FOREST PLOT
+
+
+forestS2<-plot_model(M2S, type = c("est"),
+           colors = "#00798c", show.intercept = T, show.data = TRUE,
+           dot.size = 3.5, line.size = 0.7, vline.color = "black",  width = 0,
+           bpe = "median")+
+  ylab("")+
+  theme_classic2(base_size = 15) +
+  ggtitle(" g)") 
+
+forestS2
+
+
+###########################
+########################## OFAV   Orbicella faveolata   #####################################################################
+
+data12<-OFAVGLM
+names(data12)
+class(data12$Status)
+data12$Status<- as.factor(data12$Status)
+levels(data12$Status)
+
+#Changing the order of levels in sites trophic level data frame
+
+data12$Status<- factor(data12$Status, levels = c("live", "dead"))
+
+
+M1O<- lmer(Density~Year*Status+(1|ID)+(1|Extension), data=data12)
+M2O<- lmer(Density~Year*Status+(1+Status|ID)+(1|Extension), data=data12)
+
+
+
+#################
+summary(M1O)
+Anova(M1O)
+glance(M1O) 
+model_performance(M1O)
+
+
+################pLOT MODEL##############
+
+O1<-ggpredict(M1O, terms = c("Year", "Status"), type = "fe") %>% 
+  plot() +
+  theme_classic2(base_size = 15)+
+  labs(x = "Year", y = "Density", title = " l)")+
+  ylim(0, 2)+
+  scale_colour_manual(values = c("blue", "brown", "green", "black", "red")) +
+  scale_fill_manual(values = c( "blue", "brown", "purple", "black"))+
+  guides(color = "none")
+
+O1
+
+
+O2<-ggpredict(M1O, terms = c("Status"), type = "fe") %>% 
+  plot(connect.lines = TRUE, ci.style = "errorbar", add.data = T, line.size=1, dot.size=1, dot.alpha = 0.7, colors = "#2e4057") +
+  theme_classic2(base_size = 15)+
+  labs(x = "Status", y = "Density", title = substitute(paste (italic("d)      Orbicella faveolata"))))+
+  ylim(0, 2.5)
+
+O2
+
+################################################ FOREST PLOT
+
+
+forestO2<-plot_model(M1O, type = c("est"),
+           colors = "#2e4057", show.intercept = T,show.data = TRUE,
+           dot.size = 3.5, line.size = 0.7, vline.color = "black", width = 0,
+           bpe = "median",
+           bpe.style = "dot",
+           prob.inner = .4,
+           prob.outer = .8)+
+  theme_classic2(base_size = 15) +
+  ylab("Coefficent estimate")+
+  ggtitle(" h)") 
+
+
+forestO2
+
+
+########################### panel plot#############################################################
+
+patch1<-(D2|forestD2|D1)/(PS1|forestP2|R1)/(S2|forestS2| S1)/(O2|forestO2| O1)
+patch1+plot_layout(guides = "collect")
+
