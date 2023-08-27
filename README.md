@@ -9,13 +9,13 @@
 #### Repository contains the following:
 R script, raw data, and html data
 1. Figures 2
-       * data.txt
-       * Figure2.jpeg
+   * data.txt
+   * Figure2.jpeg
 2. Figure 3
-       * data.cvs
-       * Figure3.png
+   * data.cvs
+   * Figure3.png
 3. Statics code
-       *code.txt
+   *code.txt
 4. Files  
    * Surveys.csv
    
