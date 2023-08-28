@@ -1,0 +1,1780 @@
+ANP	Reef Unit	ID Transect	Year_survey	ID_specie	ID_paper	D1_max_diam_cm	D2_min_diam_cm	altura_maxima_cm	Muerto_spp_diss_sig_paper	Mortalidad_total	obs
+PNAPM	PuertoMorelos	La Bocana_7	2018	UAGA	otras	10	10	3	no	0	
+PNAPM	PuertoMorelos	La Bocana_7	2018	UAGA	otras	8	5	3	no	0	
+PNAPM	PuertoMorelos	La Bocana_7	2018	UAGA	otras	5	3	1	no	0	
+PNAPM	PuertoMorelos	La Bocana_7	2018	UAGA	otras	15	10	5	no	0	
+PNAPM	PuertoMorelos	La Bocana_7	2018	SSID	SSID	20	18	10	no	0	
+PNAPM	PuertoMorelos	La Bocana_7	2018	SSID	SSID	25	20	10	no	0	
+PNAPM	PuertoMorelos	La Bocana_7	2018	PSTR	PSTR	27	25	10	no	0	
+PNAPM	PuertoMorelos	La Bocana_7	2018	SSID	SSID	10	10	1	no	0	
+PNAPM	PuertoMorelos	La Bocana_7	2018	UAGA	otras	10	10	3	no	0	
+PNAPM	PuertoMorelos	La Bocana_7	2018	UAGA	otras	5	5	3	no	0	
+PNAPM	PuertoMorelos	La Bocana_7	2018	SSID	SSID	25	20	10	no	0	
+PNAPM	PuertoMorelos	La Bocana_7	2018	SRAD	N/A	10	10	1	no	0	
+PNAPM	PuertoMorelos	La Bocana_7	2018	SRAD	N/A	10	5	1	no	0	
+PNAPM	PuertoMorelos	La Bocana_7	2018	UAGA	otras	10	10	12	no	0	
+PNAPM	PuertoMorelos	La Bocana_7	2018	UAGA	otras	5	3	1	no	0	
+PNAPM	PuertoMorelos	La Bocana_7	2018	UAGA	otras	45	40	20	no	0	
+PNAPM	PuertoMorelos	La Bocana_7	2018	UAGA	otras	10	10	13	no	0	
+PNAPM	PuertoMorelos	La Bocana_7	2018	UAGA	otras	10	10	13	no	0	
+PNAPM	PuertoMorelos	La Bocana_7	2018	SRAD	N/A	10	10	1	no	0	
+PNAPM	PuertoMorelos	La Bocana_7	2018	OANN	otras	180	170	210	no	20	
+PNAPM	PuertoMorelos	La Bocana_7	2018	UAGA	otras	20	20	10	no	0	
+PNAPM	PuertoMorelos	La Bocana_7	2018	OFAV	OFAV	10	10	11	no	0	
+PNAPM	PuertoMorelos	La Bocana_7	2018	OFAV	OFAV	10	10	1	no	0	
+PNAPM	PuertoMorelos	La Bocana_8	2018	UAGA	otras	10	10	1	no	0	
+PNAPM	PuertoMorelos	La Bocana_8	2018	SSID	SSID	10	8	3	si	60	
+PNAPM	PuertoMorelos	La Bocana_8	2018	UAGA	otras	40	30	22	no	10	
+PNAPM	PuertoMorelos	La Bocana_8	2018	UAGA	otras	5	4	1	no	0	
+PNAPM	PuertoMorelos	La Bocana_8	2018	UAGA	otras	10	10	3	no	0	
+PNAPM	PuertoMorelos	La Bocana_8	2018	UAGA	otras	11	10	1	no	0	
+PNAPM	PuertoMorelos	La Bocana_8	2018	UAGA	otras	10	8	1	no	0	
+PNAPM	PuertoMorelos	La Bocana_9	2018	SSID	SSID	8	8	1	no	0	
+PNAPM	PuertoMorelos	La Bocana_9	2018	UAGA	otras	10	10	10	no	0	
+PNAPM	PuertoMorelos	La Bocana_9	2018	UAGA	otras	12	11	1	no	0	
+PNAPM	PuertoMorelos	La Bocana_9	2018	UAGA	otras	10	10	1	no	0	
+PNAPM	PuertoMorelos	La Bocana_9	2018	UAGA	otras	10	10	1	no	0	
+PNAPM	PuertoMorelos	La Bocana_9	2018	PPOR	N/A	10	10	3	no	0	
+PNAPM	PuertoMorelos	La Bocana_9	2018	OFAV	OFAV	150	130	120	si	20	
+PNAPM	PuertoMorelos	La Bocana_9	2018	OANN	otras	165	110	130	no	30	
+PNAPM	PuertoMorelos	La Bocana_9	2018	OFAV	OFAV	60	40	12	si	20	
+PNAPM	PuertoMorelos	La Bocana_9	2018	OANN	otras	150	120	120	no	1	
+PNAPM	PuertoMorelos	La Bocana_9	2018	OFAV	OFAV	30	20	2	no	0	
+PNAPM	PuertoMorelos	La Bocana_9	2018	OFAV	OFAV	20	10	12	no	0	
+PNAPM	PuertoMorelos	La Bocana_9	2018	EFAS	N/A	10	10	3	no	15	
+PNAPM	PuertoMorelos	La Bocana_9	2018	OANN	otras	120	100	100	no	50	
+PNAPM	PuertoMorelos	La Bocana_9	2018	MMEA	otras	50	40	30	no	40	
+PNAPM	PuertoMorelos	La Bocana_9	2018	PSTR	PSTR	40	35	12	si	15	
+PNAPM	PuertoMorelos	La Bocana_3	2018	APAL	otras	30	20	10	no	0	
+PNAPM	PuertoMorelos	La Bocana_3	2018	PAST	N/A	120	100	110	no	0	
+PNAPM	PuertoMorelos	La Bocana_3	2018	PAST	N/A	10	10	5	no	0	
+PNAPM	PuertoMorelos	La Bocana_3	2018	PAST	N/A	10	10	1	no	0	
+PNAPM	PuertoMorelos	La Bocana_3	2018	PAST	N/A	10	10	1	no	0	
+PNAPM	PuertoMorelos	La Bocana_3	2018	SSID	SSID	15	15	10	si	15	
+PNAPM	PuertoMorelos	La Bocana_4	2018	PSTR	PSTR	50	30	30	si	15	
+PNAPM	PuertoMorelos	La Bocana_4	2018	MCAV	otras	40	30	1	no	0	
+PNAPM	PuertoMorelos	La Bocana_4	2018	SSID	SSID	50	40	1	si	15	
+PNAPM	PuertoMorelos	La Bocana_4	2018	SSID	SSID	40	20	10	no	0	
+PNAPM	PuertoMorelos	La Bocana_4	2018	SSID	SSID	40	30	5	no	0	
+PNAPM	PuertoMorelos	La Bocana_4	2018	SSID	SSID	30	30	5	no	0	
+PNAPM	PuertoMorelos	La Bocana_4	2018	UAGA	otras	10	10	1	no	0	
+PNAPM	PuertoMorelos	La Bocana_4	2018	OFAV	OFAV	60	40	50	si	50	
+PNAPM	PuertoMorelos	La Bocana_4	2018	PAST	N/A	10	10	1	no	0	
+PNAPM	PuertoMorelos	La Bocana_4	2018	SSID	SSID	20	20	5	si	15	
+PNAPM	PuertoMorelos	La Bocana_4	2018	SSID	SSID	40	30	30	si	70	
+PNAPM	PuertoMorelos	La Bocana_4	2018	PSTR	PSTR	40	40	40	si	50	
+PNAPM	PuertoMorelos	La Bocana_4	2018	PSTR	PSTR	50	10	50	si	15	
+PNAPM	PuertoMorelos	La Bocana_4	2018	UAGA	otras	60	50	5	no	0	
+PNAPM	PuertoMorelos	La Bocana_4	2018	MCAV	otras	30	20	10	no	30	
+PNAPM	PuertoMorelos	La Bocana_4	2018	MCAV	otras	50	40	10	no	0	
+PNAPM	PuertoMorelos	La Bocana_4	2018	SSID	SSID	20	20	1	si	30	
+PNAPM	PuertoMorelos	La Bocana_5	2018	MCAV	otras	15	15	1	no	0	
+PNAPM	PuertoMorelos	La Bocana_5	2018	SSID	SSID	5	5	1	no	0	
+PNAPM	PuertoMorelos	La Bocana_5	2018	UAGA	otras	30	30	10	no	0	
+PNAPM	PuertoMorelos	La Bocana_5	2018	SSID	SSID	10	10	1	no	0	
+PNAPM	PuertoMorelos	La Bocana_5	2018	UAGA	otras	20	10	5	no	0	
+PNAPM	PuertoMorelos	La Bocana_5	2018	UTEN	otras	30	25	10	no	0	
+PNAPM	PuertoMorelos	La Bocana_5	2018	SSID	SSID	10	10	1	no	0	
+PNAPM	PuertoMorelos	La Bocana_5	2018	UTEN	otras	50	50	10	no	30	
+PNAPM	PuertoMorelos	La Bocana_5	2018	SSID	SSID	15	10	2	si	15	
+PNAPM	PuertoMorelos	La Bocana_5	2018	SSID	SSID	40	40	20	no	0	
+PNAPM	PuertoMorelos	La Bocana_5	2018	SSID	SSID	40	40	20	si	15	
+PNAPM	PuertoMorelos	La Bocana_5	2018	OFAV	OFAV	30	20	20	no	0	
+PNAPM	PuertoMorelos	La Bocana_5	2018	PSTR	PSTR	30	30	20	si	15	
+PNAPM	PuertoMorelos	La Bocana_5	2018	SSID	SSID	30	20	1	no	0	
+PNAPM	PuertoMorelos	La Bocana_5	2018	UAGA	otras	15	15	5	no	0	
+PNAPM	PuertoMorelos	La Bocana_5	2018	PAST	N/A	10	10	5	no	0	
+PNAPM	PuertoMorelos	La Bocana_5	2018	OFAV	OFAV	60	60	60	si	15	
+PNAPM	PuertoMorelos	La Bocana_5	2018	SSID	SSID	40	30	1	si	15	
+PNAPM	PuertoMorelos	La Bocana_5	2018	MCAV	otras	30	20	10	no	0	
+PNAPM	PuertoMorelos	La Bocana_5	2018	UAGA	otras	20	10	10	no	70	
+PNAPM	PuertoMorelos	La Bocana_5	2018	SSID	SSID	10	10	1	no	0	
+PNAPM	PuertoMorelos	La Bocana_5	2018	SSID	SSID	30	20	1	no	0	
+PNAPM	PuertoMorelos	La Bocana_6	2018	UAGA	otras	20	10	10	no	0	
+PNAPM	PuertoMorelos	La Bocana_6	2018	UAGA	otras	10	10	10	no	0	
+PNAPM	PuertoMorelos	La Bocana_6	2018	MCAV	otras	60	40	15	no	0	
+PNAPM	PuertoMorelos	La Bocana_6	2018	SSID	SSID	40	40	10	si	15	
+PNAPM	PuertoMorelos	La Bocana_6	2018	UAGA	otras	20	10	1	no	0	
+PNAPM	PuertoMorelos	La Bocana_6	2018	SSID	SSID	30	15	1	SI	15	
+PNAPM	PuertoMorelos	La Bocana_1	2018	PSTR	PSTR	40	40	30	si	15	
+PNAPM	PuertoMorelos	La Bocana_1	2018	UAGA	otras	10	10	10	no	0	
+PNAPM	PuertoMorelos	La Bocana_1	2018	SSID	SSID	10	10	10	si	15	
+PNAPM	PuertoMorelos	La Bocana_1	2018	MCAV	otras	40	30	40	no	10	
+PNAPM	PuertoMorelos	La Bocana_1	2018	UAGA	otras	25	20	10	no	0	
+PNAPM	PuertoMorelos	La Bocana_1	2018	MCAV	otras	10	10	10	no	20	
+PNAPM	PuertoMorelos	La Bocana_1	2018	OFAV	OFAV	220	180	160	no	5	
+PNAPM	PuertoMorelos	La Bocana_1	2018	OFAV	OFAV	10	10	10	no	0	
+PNAPM	PuertoMorelos	La Bocana_1	2018	PSTR	PSTR	70	50	60	si	60	
+PNAPM	PuertoMorelos	La Bocana_2	2018	UAGA	otras	12	12	10	no	0	
+PNAPM	PuertoMorelos	La Bocana_2	2018	UAGA	otras	10	10	10	no	0	
+PNAPM	PuertoMorelos	La Bocana_2	2018	UAGA	otras	10	10	10	no	0	
+PNAPM	PuertoMorelos	La Bocana_2	2018	UAGA	otras	10	10	10	no	0	
+PNAPM	PuertoMorelos	La Bocana_2	2018	UAGA	otras	10	10	10	no	0	
+PNAPM	PuertoMorelos	La Bocana_2	2018	UAGA	otras	15	10	10	no	0	
+PNAPM	PuertoMorelos	La Bocana_2	2018	UAGA	otras	15	10	10	no	0	
+PNAPM	PuertoMorelos	La Bocana_2	2018	UAGA	otras	15	10	10	no	0	
+PNAPM	PuertoMorelos	La Bocana_2	2018	PSTR	PSTR	20	15	15	si	25	
+PNAPM	PuertoMorelos	La Bocana_2	2018	PSTR	PSTR	40	40	30	si	15	
+PNAPM	PuertoMorelos	La Bocana_2	2018	PSTR	PSTR	25	25	25	si	20	
+PNAPM	PuertoMorelos	La Bocana_2	2018	PSTR	PSTR	40	40	12	si	15	
+PNAPM	PuertoMorelos	La Bocana_2	2018	SSID	SSID	40	40	20	no	0	
+PNAPM	PuertoMorelos	La Bocana_2	2018	OFAV	OFAV	30	25	15	no	0	
+PNAPM	PuertoMorelos	La Bocana_2	2018	UAGA	otras	20	20	5	no	0	
+PNAPM	PuertoMorelos	La Bocana_2	2018	UAGA	otras	15	15	5	no	0	
+PNAPM	PuertoMorelos	La Bocana_2	2018	UAGA	otras	15	15	5	no	0	
+PNAPM	PuertoMorelos	La Bocana_2	2018	UAGA	otras	15	15	5	no	0	
+PNAPM	PuertoMorelos	La Bocana_2	2018	UAGA	otras	10	10	5	no	0	
+PNAPM	PuertoMorelos	La Bocana_2	2018	UAGA	otras	10	10	5	no	0	
+PNAPM	PuertoMorelos	La Bocana_2	2018	PSTR	PSTR	28	25	10	si	22	
+PNAPM	PuertoMorelos	La Bocana_2	2018	OFAV	OFAV	200	200	250	no	12	
+PNAPM	PuertoMorelos	La Bocana_2	2018	MCAV	otras	20	20	10	no	0	
+PNAPM	PuertoMorelos	La Bocana_2	2018	UAGA	otras	10	10	10	no	0	
+PNAPM	PuertoMorelos	La Bocana_2	2018	MCAV	otras	40	40	20	no	0	
+PNAPM	PuertoMorelos	La Bocana_2	2018	MCAV	otras	25	20	10	no	0	
+PNAPM	PuertoMorelos	La Bocana_2	2018	MCAV	otras	38	30	30	no	0	
+PNAPM	PuertoMorelos	La Bocana_2	2018	OFAV	OFAV	70	60	40	si	35	
+PNAPM	PuertoMorelos	La Bocana_13	2018	PSTR	PSTR	18	15	10	no	0	
+PNAPM	PuertoMorelos	La Bocana_13	2018	MCAV	otras	35	35	22	no	30	
+PNAPM	PuertoMorelos	La Bocana_13	2018	MMEA	otras	30	25	28	no	8	
+PNAPM	PuertoMorelos	La Bocana_13	2018	UAGA	otras	5	4	2	no	0	
+PNAPM	PuertoMorelos	La Bocana_13	2018	UAGA	otras	12	8	8	no	0	
+PNAPM	PuertoMorelos	La Bocana_13	2018	MCAV	otras	25	22	30	no	0	
+PNAPM	PuertoMorelos	La Bocana_13	2018	PAST	N/A	25	20	7	no	10	
+PNAPM	PuertoMorelos	La Bocana_13	2018	PAST	N/A	25	22	15	no	0	
+PNAPM	PuertoMorelos	La Bocana_13	2018	PAST	N/A	35	30	12	no	0	
+PNAPM	PuertoMorelos	La Bocana_13	2018	PAST	N/A	20	12	2	no	10	
+PNAPM	PuertoMorelos	La Bocana_13	2018	UAGA	otras	15	10	6	no	0	
+PNAPM	PuertoMorelos	La Bocana_13	2018	MCAV	otras	27	20	10	no	5	
+PNAPM	PuertoMorelos	La Bocana_14	2018	UAGA	otras	20	15	3	no	0	
+PNAPM	PuertoMorelos	La Bocana_14	2018	OFAV	OFAV	30	20	3	no	0	
+PNAPM	PuertoMorelos	La Bocana_14	2018	OFAV	OFAV	14	3	16	no	0	
+PNAPM	PuertoMorelos	La Bocana_14	2018	OFAV	OFAV	8	2	12	no	0	
+PNAPM	PuertoMorelos	La Bocana_14	2018	CNAT	otras	200	180	150	no	15	
+PNAPM	PuertoMorelos	La Bocana_14	2018	PSTR	PSTR	50	30	30	si	15	
+PNAPM	PuertoMorelos	La Bocana_14	2018	OFAV	OFAV	150	120	160	si	30	
+PNAPM	PuertoMorelos	La Bocana_14	2018	PPOR	N/A	30	10	8	no	50	
+PNAPM	PuertoMorelos	La Bocana_14	2018	CNAT	otras	10	8	2	no	0	
+PNAPM	PuertoMorelos	La Bocana_14	2018	SSID	SSID	15	12	7	no	0	
+PNAPM	PuertoMorelos	La Bocana_14	2018	UAGA	otras	12	7	5	no	0	
+PNAPM	PuertoMorelos	La Bocana_14	2018	SRAD	N/A	7	4	2	no	0	
+PNAPM	PuertoMorelos	La Bocana_14	2018	SRAD	N/A	5	5	2	no	0	
+PNAPM	PuertoMorelos	La Bocana_14	2018	SSID	SSID	10	8	6	no	0	
+PNAPM	PuertoMorelos	La Bocana_15	2018	SINT	N/A	12	10	5	no	0	
+PNAPM	PuertoMorelos	La Bocana_15	2018	SRAD	N/A	3	3	1	no	0	
+PNAPM	PuertoMorelos	La Bocana_15	2018	SINT	N/A	20	12.5	8	no	15	
+PNAPM	PuertoMorelos	La Bocana_15	2018	PSTR	PSTR	35	20	12	no	0	
+PNAPM	PuertoMorelos	La Bocana_15	2018	SSID	SSID	35	30	10	si	15	
+PNAPM	PuertoMorelos	La Bocana_15	2018	SRAD	N/A	3	2	1	no	0	
+PNAPM	PuertoMorelos	La Bocana_15	2018	SRAD	N/A	3	2	1	no	0	
+PNAPM	PuertoMorelos	La Bocana_15	2018	SRAD	N/A	3	2	1	no	0	
+PNAPM	PuertoMorelos	La Bocana_15	2018	SRAD	N/A	8	4	3	no	0	
+PNAPM	PuertoMorelos	La Bocana_15	2018	SRAD	N/A	3	2	1	no	0	
+PNAPM	PuertoMorelos	La Bocana_15	2018	SRAD	N/A	3	2	1	no	0	
+PNAPM	PuertoMorelos	La Bocana_15	2018	SSID	SSID	20	13	8	si	20	
+PNAPM	PuertoMorelos	La Bocana_15	2018	SRAD	N/A	12	8	2	no	0	
+PNAPM	PuertoMorelos	La Bocana_15	2018	UAGA	otras	18	12	3	no	0	
+PNAPM	PuertoMorelos	La Bocana_10	2018	PAST	N/A	30	20	10	no	0	
+PNAPM	PuertoMorelos	La Bocana_10	2018	APAL	otras	120	100	110	no	10	
+PNAPM	PuertoMorelos	La Bocana_10	2018	SSID	SSID	30	20	10	si	50	
+PNAPM	PuertoMorelos	La Bocana_10	2018	CNAT	otras	40	40	10	no	60	
+PNAPM	PuertoMorelos	La Bocana_10	2018	PAST	N/A	30	20	5	no	0	
+PNAPM	PuertoMorelos	La Bocana_10	2018	CNAT	otras	120	110	100	no	80	
+PNAPM	PuertoMorelos	La Bocana_10	2018	AHUM	otras	25	20	5	no	0	
+PNAPM	PuertoMorelos	La Bocana_10	2018	PAST	N/A	30	15	10	no	0	
+PNAPM	PuertoMorelos	La Bocana_10	2018	PAST	N/A	15	10	5	no	0	
+PNAPM	PuertoMorelos	La Bocana_11	2018	PAST	N/A	5	5	5	no	0	
+PNAPM	PuertoMorelos	La Bocana_11	2018	PPOR	N/A	10	5	5	no	0	
+PNAPM	PuertoMorelos	La Bocana_11	2018	SRAD	N/A	20	10	3	no	10	
+PNAPM	PuertoMorelos	La Bocana_11	2018	AHUM	otras	5	5	2	no	0	
+PNAPM	PuertoMorelos	La Bocana_11	2018	HCUC	N/A	15	5	3	no	0	
+PNAPM	PuertoMorelos	La Bocana_11	2018	SRAD	N/A	10	5	2	no	50	
+PNAPM	PuertoMorelos	La Bocana_11	2018	SSID	SSID	20	20	15	si	15	
+PNAPM	PuertoMorelos	La Bocana_11	2018	AHUM	otras	30	15	5	no	0	
+PNAPM	PuertoMorelos	La Bocana_11	2018	AHUM	otras	20	10	5	no	0	
+PNAPM	PuertoMorelos	La Bocana_11	2018	AHUM	otras	10	10	5	no	50	
+PNAPM	PuertoMorelos	La Bocana_11	2018	UAGA	otras	25	15	15	no	10	
+PNAPM	PuertoMorelos	La Bocana_11	2018	SINT	N/A	50	30	3	no	10	
+PNAPM	PuertoMorelos	La Bocana_11	2018	SSID	SSID	80	30	20	si	30	
+PNAPM	PuertoMorelos	La Bocana_11	2018	SSID	SSID	40	30	20	si	50	
+PNAPM	PuertoMorelos	La Bocana_12	2018	PSTR	PSTR	70	50	80	si	50	
+PNAPM	PuertoMorelos	La Bocana_12	2018	SINT	N/A	30	30	5	no	0	
+PNAPM	PuertoMorelos	La Bocana_12	2018	PSTR	PSTR	80	60	110	si	20	
+PNAPM	PuertoMorelos	La Bocana_12	2018	CNAT	otras	40	20	60	no	20	
+PNAPM	PuertoMorelos	La Bocana_12	2018	SSID	SSID	50	30	5	si	50	
+PNAPM	PuertoMorelos	La Bocana_12	2018	SRAD	N/A	40	40	5	no	10	
+PNAPM	PuertoMorelos	La Bocana_12	2018	SRAD	N/A	40	30	5	no	10	
+PNAPM	PuertoMorelos	La Bocana_12	2018	MCAV	otras	30	25	20	no	0	
+PNAPM	PuertoMorelos	La Bocana_12	2018	CNAT	otras	25	20	30	no	50	
+PNAPM	PuertoMorelos	La Bocana_12	2018	SINT	N/A	30	20	5	no	0	
+PNAPM	PuertoMorelos	La Bocana_12	2018	MCAV	otras	10	10	5	no	0	
+PNAPM	PuertoMorelos	La Bocana_12	2018	UAGA	otras	20	10	10	no	0	
+PNAPM	PuertoMorelos	La Bocana_12	2018	MCAV	otras	60	40	50	no	0	
+PNAPM	PuertoMorelos	La Bocana_12	2018	SRAD	N/A	20	20	5	no	10	
+PNAPM	PuertoMorelos	La Bocana_12	2018	AHUM	otras	10	5	5	no	0	
+PNAPM	PuertoMorelos	La Bocana_12	2018	SRAD	N/A	5	5	1	no	0	
+PNAPM	PuertoMorelos	La Bocana_12	2018	SSID	SSID	50	20	15	si	15	
+PNAPM	PuertoMorelos	La Bocana_12	2018	MCAV	otras	80	40	50	no	0	
+PNAPM	PuertoMorelos	La Bocana_12	2018	UAGA	otras	60	50	80	no	0	
+PNAPM	PuertoMorelos	La Bocana_12	2018	SSID	SSID	30	20	10	si	15	
+PNAPM	PuertoMorelos	La Bocana_12	2018	DLAB	N/A	80	60	40	no	20	
+PNAPM	PuertoMorelos	La Bocana_12	2018	SSID	SSID	80	70	50	si	20	
+PNAPM	Bonanza	1	2018	PSTR	PSTR	25	25	40	si	30	
+PNAPM	Bonanza	1	2018	PSTR	PSTR	40	30	30	si	40	
+PNAPM	Bonanza	1	2018	MAUR	otras	10	10	5	no	0	
+PNAPM	Bonanza	1	2018	MAUR	otras	25	25	5	no	0	
+PNAPM	Bonanza	1	2018	MAUR	otras	20	20	5	no	0	
+PNAPM	Bonanza	1	2018	MAUR	otras	10	10	5	no	0	
+PNAPM	Bonanza	1	2018	MAUR	otras	30	25	5	no	0	
+PNAPM	Bonanza	1	2018	PAST	otras	15	10	5	no	0	
+PNAPM	Bonanza	1	2018	PPOR	otras	40	25	10	no	0	
+PNAPM	Bonanza	1	2018	APAL	otras	70	50	40	no	50	
+PNAPM	Bonanza	1	2018	PCLI	otras	25	20	25	no	0	
+PNAPM	Bonanza	1	2018	PPOR	otras	25	20	10	no	15	
+PNAPM	Bonanza	1	2018	PSTR	PSTR	75	60	70	si	20	
+PNAPM	Bonanza	1	2018	PDIV	otras	90	40	10	no	0	
+PNAPM	Bonanza	1	2018	PDIV	otras	20	20	10	no	0	
+PNAPM	Bonanza	1	2018	PAST	otras	20	20	5	no	0	
+PNAPM	Bonanza	1	2018	PAST	otras	20	10	5	no	0	
+PNAPM	Bonanza	1	2018	PAST	otras	20	20	10	no	0	
+PNAPM	Bonanza	1	2018	PAST	otras	25	25	10	no	0	
+PNAPM	Bonanza	1	2018	APAL	otras	80	60	50	no	5	
+PNAPM	Bonanza	1	2018	APAL	otras	70	40	30	no	40	
+PNAPM	Bonanza	1	2018	APAL	otras	50	30	90	no	0	
+PNAPM	Bonanza	1	2018	APAL	otras	120	60	70	no	0	
+PNAPM	Bonanza	1	2018	APAL	otras	70	40	8	no	0	
+PNAPM	Bonanza	1	2018	PCLI	otras	30	30	18	no	0	
+PNAPM	Bonanza	1	2018	PSTR	PSTR	70	60	70	si	30	
+PNAPM	Bonanza	1	2018	PAST	otras	40	30	1	no	0	
+PNAPM	Bonanza	1	2018	APAL	otras	60	60	10	no	0	
+PNAPM	Bonanza	2	2018	PSTR	PSTR	110	50	75	si	50	
+PNAPM	Bonanza	2	2018	PAST	otras	10	10	10	no	0	
+PNAPM	Bonanza	2	2018	PCLI	otras	20	20	25	no	0	
+PNAPM	Bonanza	2	2018	PAST	otras	10	10	10	no	0	
+PNAPM	Bonanza	2	2018	PAST	otras	10	10	10	no	0	
+PNAPM	Bonanza	2	2018	PAST	otras	10	10	5	no	0	
+PNAPM	Bonanza	2	2018	PAST	otras	15	15	5	no	0	
+PNAPM	Bonanza	2	2018	PCLI	otras	25	25	15	no	0	
+PNAPM	Bonanza	2	2018	SSID	SSID	40	40	25	si	40	
+PNAPM	Bonanza	2	2018	SSID	SSID	70	50	40	si	70	
+PNAPM	Bonanza	2	2018	PCLI	otras	20	15	12	no	0	
+PNAPM	Bonanza	2	2018	PSTR	PSTR	130	130	100	si	10	
+PNAPM	Bonanza	3	2018	PSTR	PSTR	100	30	40	si	38	
+PNAPM	Bonanza	3	2018	UAGA	otras	5	5	5	no	0	
+PNAPM	Bonanza	3	2018	PDIV	otras	10	8	10	no	0	
+PNAPM	Bonanza	3	2018	PAST	otras	8	8	5	no	0	
+PNAPM	Bonanza	3	2018	UAGA	otras	10	10	5	no	0	
+PNAPM	Bonanza	3	2018	PSTR	PSTR	60	50	35	si	60	
+PNAPM	Bonanza	3	2018	OFAV	OFAV	100	60	60	si	15	
+PNAPM	Bonanza	3	2018	SSID	SSID	35	30	20	si	35	
+PNAPM	Bonanza	3	2018	PCLI	otras	12	10	5	no	0	
+PNAPM	Bonanza	3	2018	PDIV	otras	20	20	10	no	0	
+PNAPM	Bonanza	3	2018	SSID	SSID	10	10	5	si	10	
+PNAPM	Bonanza	3	2018	PAST	otras	50	40	38	no	0	
+PNAPM	Bonanza	4	2018	APAL	otras	40	30	10	no	0	
+PNAPM	Bonanza	4	2018	PPOR	otras	30	20	13	no	0	
+PNAPM	Bonanza	4	2018	APAL	otras	60	20	50	no	0	
+PNAPM	Bonanza	4	2018	APAL	otras	30	30	20	no	0	
+PNAPM	Bonanza	4	2018	PDIV	otras	46	30	10	no	0	
+PNAPM	Bonanza	4	2018	APAL	otras	50	40	30	no	65	
+PNAPM	Bonanza	4	2018	PDIV	otras	30	10	10	no	0	
+PNAPM	Bonanza	5	2018	PSTR	PSTR	15	10	5	si	15	
+PNAPM	Bonanza	5	2018	PSTR	PSTR	30	20	10	si	30	
+PNAPM	Bonanza	5	2018	PAST	otras	40	30	10	no	0	
+PNAPM	Bonanza	5	2018	PPOR	otras	15	10	10	no	0	
+PNAPM	Bonanza	5	2018	PSTR	PSTR	40	30	10	si	40	
+PNAPM	Bonanza	5	2018	PDIV	otras	15	10	10	no	0	
+PNAPM	Bonanza	5	2018	PSTR	PSTR	40	30	10	si	40	
+PNAPM	Bonanza	5	2018	PDIV	otras	80	60	10	no	0	
+PNAPM	Bonanza	5	2018	PAST	otras	30	20	5	no	0	
+PNAPM	Bonanza	5	2018	APAL	otras	15	10	3	no	0	
+PNAPM	Bonanza	5	2018	PAST	otras	150	40	10	no	0	
+PNAPM	Bonanza	5	2018	PDIV	otras	30	30	10	no	0	
+PNAPM	Bonanza	5	2018	PAST	otras	40	30	5	no	0	
+PNAPM	Bonanza	5	2018	PAST	otras	15	10	5	no	0	
+PNAPM	Bonanza	5	2018	PAST	otras	15	10	5	no	0	
+PNAPM	Bonanza	5	2018	PAST	otras	15	10	5	no	0	
+PNAPM	Bonanza	1	2018	PSTR	PSTR	n/a	n/a	n/a	no	0	no mesure
+PNAPM	Bonanza	1	2018	PSTR	PSTR	n/a	n/a	n/a	no	0	no mesure
+PNAPM	Bonanza	2	2018	PSTR	PSTR	n/a	n/a	n/a	no	0	no mesure
+PNAPM	Bonanza	2	2018	PSTR	PSTR	n/a	n/a	n/a	no	0	no mesure
+PNAPM	Bonanza	3	2018	PSTR	PSTR	n/a	n/a	n/a	no	0	no mesure
+PNAPM	Bonanza	4	2018	PSTR	PSTR	n/a	n/a	n/a	no	0	no mesure
+PNAPM	Bonanza	5	2018	PSTR	PSTR	n/a	n/a	n/a	no	0	no mesure
+PNAPM	Bonanza	5	2018	PSTR	PSTR	n/a	n/a	n/a	no	0	no mesure
+PNAPM	Bonanza	5	2018	PSTR	PSTR	n/a	n/a	n/a	no	0	no mesure
+PNAPM	Bonanza	5	2018	PSTR	PSTR	n/a	n/a	n/a	no	0	no mesure
+PNAPM	Bonanza	1	2018	SSID	SSID	n/a	n/a	n/a	no	0	no mesure
+PNAPM	Bonanza	1	2018	SSID	SSID	n/a	n/a	n/a	no	0	no mesure
+PNAPM	Bonanza	2	2018	SSID	SSID	n/a	n/a	n/a	no	0	no mesure
+PNAPM	Bonanza	3	2018	SSID	SSID	n/a	n/a	n/a	no	0	no mesure
+PNAPM	Bonanza	3	2018	SSID	SSID	n/a	n/a	n/a	si	20	no mesure
+PNAPM	Bonanza	3	2018	SSID	SSID	n/a	n/a	n/a	no	0	no mesure
+PNAPM	Bonanza	4	2018	SSID	SSID	n/a	n/a	n/a	no	0	no mesure
+PNAPM	Bonanza	4	2018	SSID	SSID	n/a	n/a	n/a	si	50	no mesure
+PNAPM	Bonanza	4	2018	SSID	SSID	n/a	n/a	n/a	no	0	no mesure
+PNAPM	Bonanza	4	2018	SSID	SSID	n/a	n/a	n/a	no	0	no mesure
+PNAPM	Bonanza	5	2018	SSID	SSID	n/a	n/a	n/a	no	0	no mesure
+PNAPM	Bonanza	5	2018	SSID	SSID	n/a	n/a	n/a	no	0	no mesure
+PNAPM	Bonanza	5	2018	SSID	SSID	n/a	n/a	n/a	no	0	no mesure
+PNAPM	Bonanza	5	2018	SSID	SSID	n/a	n/a	n/a	no	0	no mesure
+PNAPM	Bonanza	1	2018	OFAV	OFAV	20	30	20	si	60	
+PNAPM	Bonanza	4	2018	OFAV	OFAV	20	15	25	si	90	
+PNAPM	Limones	7	2019	PAST	otras	30	25	30	no	5	
+PNAPM	Limones	7	2019	PAST	otras	25	25	10	no	100	
+PNAPM	Limones	7	2019	PAST	otras	15	10	5	no	0	
+PNAPM	Limones	7	2019	APAL	otras	150	80	90	no	50	
+PNAPM	Limones	7	2019	PSTR	PSTR	50	40	50	si	20	
+PNAPM	Limones	7	2019	PSTR	PSTR	50	30	40	si	20	
+PNAPM	Limones	7	2019	PPOR	otras	6	3	2	no	0	
+PNAPM	Limones	7	2019	UAGA	otras	10	10	5	no	0	
+PNAPM	Limones	7	2019	PAST	otras	5	5	1	no	0	
+PNAPM	Limones	7	2019	SSID	SSID	40	40	25	si	80	
+PNAPM	Limones	7	2019	APAL	otras	40	40	10	no	0	
+PNAPM	Limones	7	2019	APAL	otras	10	5	10	no	0	
+PNAPM	Limones	7	2019	APAL	otras	80	70	40	no	30	
+PNAPM	Limones	7	2019	PSTR	PSTR	65	60	75	si	80	
+PNAPM	Limones	8	2019	SSID	SSID	20	20	10	si	20	
+PNAPM	Limones	8	2019	APAL	otras	200	100	120	no	20	
+PNAPM	Limones	8	2019	APAL	otras	30	30	20	no	0	
+PNAPM	Limones	8	2019	APAL	otras	120	100	40	no	10	
+PNAPM	Limones	8	2019	PSTR	PSTR	10	10	1	no	0	
+PNAPM	Limones	8	2019	APAL	otras	130	120	70	no	0	
+PNAPM	Limones	8	2019	APAL	otras	150	125	75	no	0	
+PNAPM	Limones	8	2019	APAL	otras	200	100	85	no	0	
+PNAPM	Limones	8	2019	APAL	otras	100	75	60	no	0	
+PNAPM	Limones	8	2019	APAL	otras	80	50	50	no	0	
+PNAPM	Limones	8	2019	APAL	otras	200	100	100	no	0	
+PNAPM	Limones	8	2019	APAL	otras	240	200	120	no	0	
+PNAPM	Limones	8	2019	APAL	otras	320	250	70	no	0	
+PNAPM	Limones	9	2019	APAL	otras	250	200	200	no	0	
+PNAPM	Limones	9	2019	APAL	otras	60	30	40	no	0	
+PNAPM	Limones	9	2019	APAL	otras	30	25	20	no	0	
+PNAPM	Limones	9	2019	APAL	otras	110	75	60	no	30	
+PNAPM	Limones	9	2019	APAL	otras	200	100	90	no	20	
+PNAPM	Limones	9	2019	APAL	otras	100	100	80	no	20	
+PNAPM	Limones	9	2019	APAL	otras	60	50	75	no	0	
+PNAPM	Limones	9	2019	PAST	otras	60	50	60	no	0	
+PNAPM	Limones	9	2019	APAL	otras	65	50	60	no	0	
+PNAPM	Limones	9	2019	APAL	otras	80	50	80	no	10	
+PNAPM	Limones	9	2019	APAL	otras	70	50	50	no	10	
+PNAPM	Limones	9	2019	APAL	otras	70	50	50	no	0	
+PNAPM	Limones	9	2019	APAL	otras	160	120	120	no	40	
+PNAPM	Limones	10	2019	PAST	otras	10	10	5	no	45	
+PNAPM	Limones	10	2019	PSTR	PSTR	60	50	80	si	30	
+PNAPM	Limones	10	2019	PSTR	PSTR	25	20	20	no	0	
+PNAPM	Limones	10	2019	PAST	otras	10	10	5	no	0	
+PNAPM	Limones	10	2019	PAST	otras	25	20	1	no	0	
+PNAPM	Limones	10	2019	PAST	otras	10	10	5	no	0	
+PNAPM	Limones	10	2019	PAST	otras	10	8	10	no	0	
+PNAPM	Limones	10	2019	PAST	otras	10	10	8	no	0	
+PNAPM	Limones	10	2019	SSID	SSID	10	10	1	no	0	
+PNAPM	Limones	10	2019	PAST	otras	10	10	12	no	0	
+PNAPM	Limones	10	2019	PAST	otras	8	8	5	no	0	
+PNAPM	Limones	10	2019	PSTR	PSTR	75	50	70	si	100	
+PNAPM	Limones	10	2019	SSID	SSID	50	30	20	si	60	
+PNAPM	Limones	10	2019	SSID	SSID	60	60	30	si	95	
+PNAPM	Limones	10	2019	PSTR	PSTR	50	0	50	si	100	
+PNAPM	Limones	10	2019	PAST	otras	50	50	20	no	10	
+PNAPM	Limones	10	2019	PAST	otras	40	20	1	no	0	
+PNAPM	Limones	11	2019	PAST	otras	20	10	1	no	0	
+PNAPM	Limones	11	2019	APAL	otras	160	160	200	no	40	
+PNAPM	Limones	11	2019	APAL	otras	40	30	20	no	0	
+PNAPM	Limones	11	2019	APAL	otras	30	20	10	no	0	
+PNAPM	Limones	11	2019	APAL	otras	120	100	130	no	20	
+PNAPM	Limones	11	2019	PAST	otras	10	10	5	no	0	
+PNAPM	Limones	11	2019	APAL	otras	100	100	20	no	50	
+PNAPM	Limones	11	2019	PAST	otras	30	20	1	no	0	
+PNAPM	Limones	11	2019	PAST	otras	20	20	1	no	0	
+PNAPM	Limones	11	2019	PAST	otras	40	20	1	no	0	
+PNAPM	Limones	11	2019	PAST	otras	25	20	1	no	0	
+PNAPM	Limones	11	2019	PAST	otras	20	20	3	no	0	
+PNAPM	Limones	11	2019	APAL	otras	25	24	20	no	0	
+PNAPM	Limones	11	2019	APAL	otras	20	20	10	no	0	
+PNAPM	Limones	11	2019	APAL	otras	75	75	90	no	40	
+PNAPM	Limones	12	2019	PPOR	otras	15	15	10	no	0	
+PNAPM	Limones	12	2019	APAL	otras	30	20	30	no	30	
+PNAPM	Limones	12	2019	PAST	otras	30	30	1	no	0	
+PNAPM	Limones	12	2019	PAST	otras	20	20	1	no	0	
+PNAPM	Limones	2	2019	DCYL	DCYL	50	40	90	si	80	
+PNAPM	Limones	12	2019	PAST	otras	25	20	1	no	0	
+PNAPM	Limones	12	2019	PAST	otras	20	20	1	no	0	
+PNAPM	Limones	12	2019	PAST	otras	20	20	1	no	0	
+PNAPM	Limones	12	2019	PAST	otras	20	20	1	no	0	
+PNAPM	Limones	12	2019	PAST	otras	10	10	1	no	0	
+PNAPM	Limones	12	2019	PAST	otras	10	10	1	no	0	
+PNAPM	Limones	12	2019	PAST	otras	20	10	1	no	0	
+PNAPM	Limones	12	2019	PAST	otras	30	20	1	no	0	
+PNAPM	Limones	12	2019	PSTR	PSTR	30	24	30	si	90	
+PNAPM	Limones	12	2019	PSTR	PSTR	120	60	200	si	60	
+PNAPM	Limones	12	2019	PPOR	otras	20	10	5	no	0	
+PNAPM	Limones	12	2019	PAST	otras	50	30	40	no	10	
+PNAPM	Limones	12	2019	SSID	SSID	40	30	30	si	90	
+PNAPM	Limones	12	2019	PSTR	PSTR	20	20	10	no	0	
+PNAPM	Limones	12	2019	PAST	otras	15	10	10	no	50	
+PNAPM	Limones	13	2019	PSTR	PSTR	70	60	50	si	100	
+PNAPM	Limones	13	2019	PAST	otras	20	10	1	no	0	
+PNAPM	Limones	13	2019	PAST	otras	20	15	10	no	0	
+PNAPM	Limones	13	2019	PAST	otras	10	10	1	no	0	
+PNAPM	Limones	13	2019	UAGA	otras	10	2	5	no	0	
+PNAPM	Limones	13	2019	PAST	otras	14	10	1	no	0	
+PNAPM	Limones	13	2019	PAST	otras	25	25	25	no	30	
+PNAPM	Limones	13	2019	OFAV	OFAV	25	20	20	si	15	
+PNAPM	Limones	13	2019	OFAV	OFAV	80	20	80	no	0	
+PNAPM	Limones	13	2019	UAGA	otras	20	10	10	no	0	
+PNAPM	Limones	13	2019	OFAV	OFAV	25	20	50	no	0	
+PNAPM	Limones	13	2019	OFAV	OFAV	40	30	100	si	20	
+PNAPM	Limones	13	2019	OFAV	OFAV	25	20	40	no	0	
+PNAPM	Limones	13	2019	OFAV	OFAV	40	20	30	no	0	
+PNAPM	Limones	13	2019	OANN	otras	50	50	50	no	40	
+PNAPM	Limones	13	2019	OFAV	OFAV	40	40	50	no	0	
+PNAPM	Limones	13	2019	OFAV	OFAV	50	20	50	no	0	
+PNAPM	Limones	13	2019	UTEN	otras	120	120	60	no	0	
+PNAPM	Limones	13	2019	SSID	SSID	70	40	40	si	60	
+PNAPM	Limones	13	2019	OFAV	OFAV	20	10	10	si	90	
+PNAPM	Limones	13	2019	OFAV	OFAV	50	30	30	si	50	
+PNAPM	Limones	13	2019	OFAV	OFAV	30	25	40	si	30	
+PNAPM	Limones	13	2019	OFAV	OFAV	20	20	30	si	30	
+PNAPM	Limones	13	2019	OFAV	OFAV	30	25	40	si	40	
+PNAPM	Limones	13	2019	UTEN	otras	20	20	10	no	0	
+PNAPM	Limones	14	2019	OFAV	OFAV	75	50	0	no	0	
+PNAPM	Limones	14	2019	OFAV	OFAV	20	20	20	no	0	
+PNAPM	Limones	14	2019	UAGA	otras	10	5	10	no	0	
+PNAPM	Limones	14	2019	PSTR	PSTR	60	50	50	si	30	
+PNAPM	Limones	14	2019	UTEN	otras	25	25	15	no	0	
+PNAPM	Limones	14	2019	UTEN	otras	100	100	50	no	50	
+PNAPM	Limones	14	2019	PAST	otras	40	30	1	no	0	
+PNAPM	Limones	14	2019	PAST	otras	50	40	15	no	0	
+PNAPM	Limones	14	2019	UTEN	otras	50	40	30	no	0	
+PNAPM	Limones	14	2019	UTEN	otras	70	40	20	no	0	
+PNAPM	Limones	14	2019	UTEN	otras	50	50	30	no	0	
+PNAPM	Limones	14	2019	PPOR	otras	90	50	20	no	0	
+PNAPM	Limones	14	2019	UTEN	otras	50	50	20	no	0	
+PNAPM	Limones	14	2019	PAST	otras	40	20	30	no	0	
+PNAPM	Limones	14	2019	PAST	otras	20	10	20	no	0	
+PNAPM	Limones	14	2019	PAST	otras	25	20	10	no	0	
+PNAPM	Limones	14	2019	PAST	otras	20	20	10	no	0	
+PNAPM	Limones	14	2019	PAST	otras	20	20	10	no	0	
+PNAPM	Limones	14	2019	PAST	otras	20	20	10	no	0	
+PNAPM	Limones	14	2019	PAST	otras	25	20	10	no	0	
+PNAPM	Limones	15	2019	APAL	otras	120	100	100	no	80	
+PNAPM	Limones	15	2019	PAST	otras	20	10	10	no	0	
+PNAPM	Limones	15	2019	PAST	otras	20	10	10	no	0	
+PNAPM	Limones	15	2019	PAST	otras	20	10	10	no	0	
+PNAPM	Limones	15	2019	PPOR	otras	10	10	2	no	0	
+PNAPM	Limones	15	2019	PPOR	otras	15	10	10	no	0	
+PNAPM	Limones	15	2019	APAL	otras	40	40	30	no	0	
+PNAPM	Limones	15	2019	APAL	otras	700	600	120	no	0	
+PNAPM	Limones	15	2019	APAL	otras	40	40	20	no	0	
+PNAPM	Limones	15	2019	APAL	otras	40	40	20	no	0	
+PNAPM	Limones	16	2019	APAL	otras	200	140	90	no	60	
+PNAPM	Limones	16	2019	PSTR	PSTR	30	30	40	si	100	
+PNAPM	Limones	16	2019	PAST	otras	10	10	10	no	0	
+PNAPM	Limones	16	2019	PSTR	PSTR	35	30	20	si	70	
+PNAPM	Limones	16	2019	APAL	otras	620	390	140	no	0	
+PNAPM	Limones	16	2019	PSTR	PSTR	60	40	120	si	100	
+PNAPM	Limones	16	2019	PSTR	PSTR	30	30	50	no	0	
+PNAPM	Limones	16	2019	PSTR	PSTR	20	20	50	si	100	
+PNAPM	Limones	16	2019	PAST	otras	10	10	12	no	0	
+PNAPM	Limones	16	2019	PSTR	PSTR	60	50	60	si	80	
+PNAPM	Limones	16	2019	APAL	otras	250	200	120	no	10	
+PNAPM	Limones	16	2019	UAGA	otras	20	20	10	no	0	
+PNAPM	Limones	16	2019	APAL	otras	20	20	10	no	0	
+PNAPM	Limones	16	2019	APAL	otras	40	40	50	no	5	
+PNAPM	Limones	17	2019	PAST	otras	20	20	12	no	0	
+PNAPM	Limones	17	2019	APAL	otras	120	120	110	no	70	
+PNAPM	Limones	17	2019	APAL	otras	220	100	100	no	70	
+PNAPM	Limones	17	2019	PSTR	PSTR	60	35	28	si	70	
+PNAPM	Limones	17	2019	APAL	otras	120	100	80	no	80	
+PNAPM	Limones	17	2019	PSTR	PSTR	140	120	100	si	80	
+PNAPM	Limones	17	2019	APAL	otras	200	150	200	no	50	
+PNAPM	Limones	17	2019	APAL	otras	120	100	100	no	60	
+PNAPM	Limones	17	2019	APAL	otras	150	120	100	no	60	
+PNAPM	Limones	17	2019	OFAV	OFAV	145	145	90	si	48	
+PNAPM	Limones	18	2019	PSTR	PSTR	48	40	41	si	80	
+PNAPM	Limones	18	2019	PSTR	PSTR	40	32	38	si	25	
+PNAPM	Limones	18	2019	SSID	SSID	30	30	3	si	100	
+PNAPM	Limones	18	2019	SSID	SSID	23	20	10	si	80	
+PNAPM	Limones	18	2019	APAL	otras	150	120	90	no	0	
+PNAPM	Limones	18	2019	SSID	SSID	60	45	30	si	55	
+PNAPM	Limones	18	2019	PSTR	PSTR	40	40	25	si	75	
+PNAPM	Limones	18	2019	UAGA	otras	10	10	3	no	0	
+PNAPM	Limones	18	2019	PSTR	PSTR	60	45	60	si	100	
+PNAPM	Limones	18	2019	PAST	otras	20	20	10	no	0	
+PNAPM	Limones	18	2019	SSID	SSID	40	35	50	si	100	
+PNAPM	Limones	18	2019	PAST	otras	20	20	3	no	0	
+PNAPM	Limones	18	2019	PAST	otras	35	30	10	no	0	
+PNAPM	Limones	18	2019	PAST	otras	20	20	3	no	0	
+PNAPM	Limones	18	2019	PPOR	otras	10	10	12	no	0	
+PNAPM	Limones	19	2019	PAST	otras	10	10	2	no	0	
+PNAPM	Limones	19	2019	PAST	otras	10	10	2	no	0	
+PNAPM	Limones	19	2019	PAST	otras	10	10	2	no	0	
+PNAPM	Limones	19	2019	PAST	otras	10	10	2	no	0	
+PNAPM	Limones	19	2019	PAST	otras	10	10	2	no	0	
+PNAPM	Limones	19	2019	PPOR	otras	35	30	10	no	0	
+PNAPM	Limones	19	2019	PPOR	otras	35	30	10	no	0	
+PNAPM	Limones	19	2019	APAL	otras	130	120	100	no	60	
+PNAPM	Limones	19	2019	PAST	otras	10	10	3	no	0	
+PNAPM	Limones	19	2019	PAST	otras	10	10	3	no	0	
+PNAPM	Limones	19	2019	PAST	otras	10	10	3	no	0	
+PNAPM	Limones	19	2019	PAST	otras	10	10	3	no	0	
+PNAPM	Limones	19	2019	PAST	otras	10	10	3	no	0	
+PNAPM	Limones	19	2019	PPOR	otras	90	50	40	no	0	
+PNAPM	Limones	19	2019	PPOR	otras	30	30	20	no	0	
+PNAPM	Limones	19	2019	PAST	otras	12	10	4	no	0	
+PNAPM	Limones	19	2019	PAST	otras	12	10	4	no	0	
+PNAPM	Limones	19	2019	PAST	otras	12	10	4	no	0	
+PNAPM	Limones	19	2019	PAST	otras	12	10	4	no	0	
+PNAPM	Limones	19	2019	APAL	otras	160	140	120	no	20	
+PNAPM	Limones	19	2019	PPOR	otras	30	30	5	no	0	
+PNAPM	Limones	19	2019	PPOR	otras	30	30	5	no	0	
+PNAPM	Limones	19	2019	PPOR	otras	30	30	5	no	0	
+PNAPM	Limones	19	2019	PPOR	otras	30	30	5	no	0	
+PNAPM	Limones	19	2019	PSTR	PSTR	80	50	65	si	40	
+PNAPM	Limones	19	2019	PSTR	PSTR	32	30	25	si	20	
+PNAPM	Limones	19	2019	PSTR	PSTR	80	60	80	si	100	
+PNAPM	Limones	19	2019	APAL	otras	200	100	120	no	10	
+PNAPM	Limones	20	2019	APAL	otras	800	500	150	no	0	
+PNAPM	Limones	20	2019	PSTR	PSTR	20	20	30	no	0	
+PNAPM	Limones	20	2019	PSTR	PSTR	20	20	30	no	0	
+PNAPM	Limones	20	2019	PSTR	PSTR	30	20	30	no	0	
+PNAPM	Limones	20	2019	PSTR	PSTR	30	20	30	no	0	
+PNAPM	Limones	20	2019	PAST	otras	10	10	12	no	0	
+PNAPM	Limones	20	2019	PAST	otras	10	10	12	no	0	
+PNAPM	Limones	20	2019	PAST	otras	10	10	12	no	0	
+PNAPM	Limones	20	2019	PSTR	PSTR	40	20	18	si	50	
+PNAPM	Limones	20	2019	OFAV	OFAV	300	220	160	si	98	
+PNAPM	Limones	21	2019	PSTR	PSTR	80	75	50	si	100	
+PNAPM	Limones	21	2019	PAST	otras	20	20	3	no	0	
+PNAPM	Limones	21	2019	PAST	otras	20	20	3	no	0	
+PNAPM	Limones	21	2019	PAST	otras	20	20	3	no	0	
+PNAPM	Limones	21	2019	PAST	otras	20	20	3	no	0	
+PNAPM	Limones	21	2019	PAST	otras	20	20	3	no	0	
+PNAPM	Limones	21	2019	PAST	otras	20	20	3	no	0	
+PNAPM	Limones	21	2019	PAST	otras	10	10	3	no	0	
+PNAPM	Limones	21	2019	PAST	otras	10	10	3	no	0	
+PNAPM	Limones	21	2019	PAST	otras	10	10	3	no	0	
+PNAPM	Limones	21	2019	PAST	otras	10	10	3	no	0	
+PNAPM	Limones	21	2019	PAST	otras	10	10	3	no	0	
+PNAPM	Limones	21	2019	UTEN	otras	40	20	10	no	0	
+PNAPM	Limones	21	2019	PAST	otras	50	40	20	no	0	
+PNAPM	Limones	21	2019	PAST	otras	50	40	20	no	0	
+PNAPM	Limones	21	2019	PAST	otras	50	40	20	no	0	
+PNAPM	Limones	21	2019	UTEN	otras	150	140	60	no	70	
+PNAPM	Limones	21	2019	OFAV	OFAV	50	50	20	no	10	
+PNAPM	Limones	21	2019	PSTR	PSTR	100	70	50	si	100	
+PNAPM	Limones	21	2019	APAL	otras	120	100	110	no	70	
+PNAPM	Limones	21	2019	APAL	otras	350	75	110	no	60	
+PNAPM	Limones	22	2019	OFAV	OFAV	25	20	3	no	0	
+PNAPM	Limones	22	2019	OFAV	OFAV	25	20	3	no	0	
+PNAPM	Limones	22	2019	PAST	otras	25	25	3	no	0	
+PNAPM	Limones	22	2019	PAST	otras	25	25	3	no	0	
+PNAPM	Limones	22	2019	PAST	otras	25	25	3	no	0	
+PNAPM	Limones	22	2019	PAST	otras	25	25	3	no	0	
+PNAPM	Limones	22	2019	PAST	otras	25	25	3	no	0	
+PNAPM	Limones	22	2019	PAST	otras	25	25	3	no	0	
+PNAPM	Limones	22	2019	UAGA	otras	20	20	3	no	0	
+PNAPM	Limones	22	2019	UAGA	otras	20	20	3	no	0	
+PNAPM	Limones	22	2019	OFAV	OFAV	220	200	80	si	80	
+PNAPM	Limones	22	2019	PSTR	PSTR	35	35	40	si	15	
+PNAPM	Limones	22	2019	PAST	otras	30	20	10	no	0	
+PNAPM	Limones	22	2019	PSTR	PSTR	85	70	75	si	100	
+PNAPM	Limones	22	2019	PSTR	PSTR	55	40	55	si	100	
+PNAPM	Limones	22	2019	PSTR	PSTR	120	80	60	no	0	
+PNAPM	Limones	22	2019	PAST	otras	25	25	10	no	35	
+PNAPM	Limones	23	2019	PAST	otras	10	10	6	no	0	
+PNAPM	Limones	23	2019	PAST	otras	10	10	6	no	0	
+PNAPM	Limones	23	2019	PSTR	PSTR	50	50	60	si	40	
+PNAPM	Limones	23	2019	PSTR	PSTR	40	40	20	si	100	
+PNAPM	Limones	23	2019	PSTR	PSTR	100	90	40	si	93	
+PNAPM	Limones	23	2019	PAST	otras	30	30	20	no	0	
+PNAPM	Limones	23	2019	PSTR	PSTR	30	30	20	si	100	
+PNAPM	Limones	23	2019	SSID	SSID	10	10	8	si	100	
+PNAPM	Limones	23	2019	PAST	otras	10	10	3	no	0	
+PNAPM	Limones	23	2019	APAL	otras	120	50	100	no	90	
+PNAPM	Limones	23	2019	PAST	otras	10	10	12	no	0	
+PNAPM	Limones	23	2019	PAST	otras	30	30	10	no	0	
+PNAPM	Limones	23	2019	PSTR	PSTR	60	30	32	si	100	
+PNAPM	Limones	23	2019	PAST	otras	25	20	25	no	100	
+PNAPM	Limones	23	2019	PAST	otras	25	25	10	no	0	
+PNAPM	Limones	1	2019	PAST	otras	10	10	4	no	0	
+PNAPM	Limones	1	2019	PAST	otras	28	20	6	no	50	
+PNAPM	Limones	1	2019	PAST	otras	18	12	5	no	3	
+PNAPM	Limones	1	2019	PAST	otras	12	10	6	no	3	
+PNAPM	Limones	1	2019	PAST	otras	12	10	6	no	3	
+PNAPM	Limones	1	2019	PAST	otras	12	10	6	no	3	
+PNAPM	Limones	1	2019	PAST	otras	12	10	6	no	3	
+PNAPM	Limones	1	2019	PAST	otras	12	10	6	no	3	
+PNAPM	Limones	1	2019	PAST	otras	12	10	6	no	3	
+PNAPM	Limones	1	2019	PAST	otras	12	10	6	no	3	
+PNAPM	Limones	1	2019	PAST	otras	12	10	6	no	3	
+PNAPM	Limones	1	2019	PAST	otras	12	10	6	no	3	
+PNAPM	Limones	1	2019	PAST	otras	12	10	6	no	3	
+PNAPM	Limones	1	2019	PAST	otras	18	16	8	no	3	
+PNAPM	Limones	1	2019	PAST	otras	18	16	8	no	3	
+PNAPM	Limones	1	2019	PAST	otras	18	16	8	no	3	
+PNAPM	Limones	1	2019	PAST	otras	18	16	8	no	3	
+PNAPM	Limones	1	2019	PAST	otras	18	16	8	no	3	
+PNAPM	Limones	1	2019	PAST	otras	18	16	8	no	3	
+PNAPM	Limones	1	2019	PAST	otras	8	6	3	no	0	
+PNAPM	Limones	1	2019	PAST	otras	8	6	3	no	0	
+PNAPM	Limones	1	2019	PAST	otras	8	6	3	no	0	
+PNAPM	Limones	1	2019	PAST	otras	8	6	3	no	0	
+PNAPM	Limones	1	2019	PAST	otras	8	6	3	no	0	
+PNAPM	Limones	1	2019	PAST	otras	8	6	3	no	0	
+PNAPM	Limones	1	2019	PAST	otras	8	6	3	no	0	
+PNAPM	Limones	1	2019	PAST	otras	8	6	3	no	0	
+PNAPM	Limones	1	2019	PAST	otras	18	10	3	no	3	
+PNAPM	Limones	1	2019	PAST	otras	18	10	3	no	3	
+PNAPM	Limones	1	2019	PAST	otras	18	10	3	no	3	
+PNAPM	Limones	1	2019	PAST	otras	25	20	8	no	3	
+PNAPM	Limones	1	2019	PAST	otras	25	20	8	no	3	
+PNAPM	Limones	1	2019	PAST	otras	25	20	8	no	3	
+PNAPM	Limones	1	2019	PAST	otras	35	28	10	no	8	
+PNAPM	Limones	1	2019	PSTR	PSTR	35	30	30	si	100	
+PNAPM	Limones	2	2019	PAST	otras	12	10	4	no	3	
+PNAPM	Limones	2	2019	APAL	otras	40	35	30	no	20	
+PNAPM	Limones	2	2019	APAL	otras	120	70	70	no	60	
+PNAPM	Limones	2	2019	PSTR	PSTR	75	45	55	si	100	
+PNAPM	Limones	2	2019	APAL	otras	100	60	70	no	65	
+PNAPM	Limones	2	2019	SSID	SSID	32	22	25	si	85	
+PNAPM	Limones	2	2019	PAST	otras	18	15	6	no	3	
+PNAPM	Limones	2	2019	PAST	otras	8	8	6	no	0	
+PNAPM	Limones	2	2019	PAST	otras	60	40	50	no	5	
+PNAPM	Limones	2	2019	APAL	otras	70	30	80	no	45	
+PNAPM	Limones	2	2019	APAL	otras	130	80	70	no	35	
+PNAPM	Limones	2	2019	PSTR	PSTR	20	18	20	si	100	
+PNAPM	Limones	2	2019	PAST	otras	12	9	6	no	3	
+PNAPM	Limones	2	2019	PAST	otras	12	9	6	no	3	
+PNAPM	Limones	2	2019	PAST	otras	12	9	6	no	3	
+PNAPM	Limones	2	2019	PAST	otras	12	9	6	no	3	
+PNAPM	Limones	2	2019	PAST	otras	12	9	6	no	3	
+PNAPM	Limones	2	2019	PAST	otras	18	15	8	no	3	
+PNAPM	Limones	2	2019	PAST	otras	18	15	8	no	3	
+PNAPM	Limones	2	2019	PAST	otras	18	15	8	no	3	
+PNAPM	Limones	2	2019	PAST	otras	18	15	8	no	3	
+PNAPM	Limones	2	2019	APAL	otras	70	50	60	no	30	
+PNAPM	Limones	2	2019	APAL	otras	25	20	30	no	2	
+PNAPM	Limones	2	2019	APAL	otras	85	55	70	no	40	
+PNAPM	Limones	3	2019	APAL	otras	80	30	60	no	5	
+PNAPM	Limones	3	2019	APAL	otras	150	120	50	no	25	
+PNAPM	Limones	3	2019	APAL	otras	100	80	80	no	8	
+PNAPM	Limones	3	2019	PAST	otras	18	18	5	no	5	
+PNAPM	Limones	3	2019	APAL	otras	160	80	85	no	8	
+PNAPM	Limones	3	2019	APAL	otras	45	40	20	no	80	
+PNAPM	Limones	3	2019	APAL	otras	45	40	20	no	80	
+PNAPM	Limones	3	2019	APAL	otras	80	40	75	no	15	
+PNAPM	Limones	3	2019	APAL	otras	130	120	100	no	15	
+PNAPM	Limones	3	2019	APAL	otras	100	80	40	no	75	
+PNAPM	Limones	3	2019	PSTR	PSTR	22	18	18	si	80	
+PNAPM	Limones	3	2019	MDEC	otras	10	10	6	no	0	
+PNAPM	Limones	3	2019	APAL	otras	180	130	100	no	10	
+PNAPM	Limones	3	2019	APAL	otras	120	85	70	no	40	
+PNAPM	Limones	3	2019	APAL	otras	180	160	75	no	15	
+PNAPM	Limones	3	2019	APAL	otras	70	65	30	no	0	
+PNAPM	Limones	4	2019	PAST	otras	10	8	3	no	17	
+PNAPM	Limones	4	2019	PAST	otras	10	8	3	no	17	
+PNAPM	Limones	4	2019	PAST	otras	10	8	3	no	17	
+PNAPM	Limones	4	2019	APAL	otras	60	50	50	no	85	
+PNAPM	Limones	4	2019	APAL	otras	110	100	80	no	0	
+PNAPM	Limones	4	2019	APAL	otras	110	100	80	no	0	
+PNAPM	Limones	4	2019	APAL	otras	110	100	80	no	0	
+PNAPM	Limones	4	2019	APAL	otras	110	100	80	no	0	
+PNAPM	Limones	4	2019	APAL	otras	110	100	80	no	0	
+PNAPM	Limones	4	2019	APAL	otras	110	100	80	no	0	
+PNAPM	Limones	4	2019	APAL	otras	110	100	80	no	0	
+PNAPM	Limones	4	2019	APAL	otras	110	100	80	no	0	
+PNAPM	Limones	4	2019	APAL	otras	130	120	85	no	0	
+PNAPM	Limones	4	2019	APAL	otras	300	200	90	no	10	
+PNAPM	Limones	4	2019	APAL	otras	140	130	70	no	0	
+PNAPM	Limones	4	2019	PAST	otras	14	12	5	no	5	
+PNAPM	Limones	4	2019	PAST	otras	14	12	5	no	5	
+PNAPM	Limones	4	2019	APAL	otras	18	16	20	no	80	
+PNAPM	Limones	4	2019	APAL	otras	200	140	70	no	25	
+PNAPM	Limones	5	2019	APAL	otras	220	130	80	no	20	
+PNAPM	Limones	5	2019	APAL	otras	230	180	50	no	20	
+PNAPM	Limones	5	2019	APAL	otras	90	85	75	no	20	
+PNAPM	Limones	5	2019	APAL	otras	165	100	50	no	5	
+PNAPM	Limones	5	2019	PAST	otras	20	18	6	no	3	
+PNAPM	Limones	5	2019	PAST	otras	20	18	6	no	3	
+PNAPM	Limones	5	2019	PAST	otras	12	10	6	no	1	
+PNAPM	Limones	5	2019	PAST	otras	12	10	6	no	1	
+PNAPM	Limones	5	2019	PAST	otras	12	10	6	no	1	
+PNAPM	Limones	5	2019	PPOR	otras	22	16	8	no	2	
+PNAPM	Limones	5	2019	MDEC	otras	20	16	6	no	3	
+PNAPM	Limones	5	2019	APAL	otras	120	120	100	no	30	
+PNAPM	Limones	5	2019	PAST	otras	10	8	3	no	0	
+PNAPM	Limones	5	2019	PAST	otras	10	8	3	no	0	
+PNAPM	Limones	5	2019	PAST	otras	10	8	3	no	0	
+PNAPM	Limones	5	2019	PAST	otras	10	8	3	no	0	
+PNAPM	Limones	6	2019	APAL	otras	50	40	50	no	10	
+PNAPM	Limones	6	2019	PAST	otras	25	20	10	no	3	
+PNAPM	Limones	6	2019	PSTR	PSTR	10	8	10	si	100	
+PNAPM	Limones	6	2019	PAST	otras	28	18	10	no	0	
+PNAPM	Limones	6	2019	SSID	SSID	10	10	6	si	60	
+PNAPM	Limones	6	2019	PAST	otras	8	8	4	no	0	
+PNAPM	Limones	6	2019	SSID	SSID	55	35	20	si	100	
+PNAPM	Limones	6	2019	APAL	otras	75	50	25	no	25	
+PNAPM	Limones	6	2019	APAL	otras	25	20	18	no	0	
+PNAPM	Limones	6	2019	APAL	otras	40	25	25	no	10	
+PNAPM	Limones	6	2019	APAL	otras	20	12	10	no	40	
+PNAPM	Limones	6	2019	APAL	otras	50	40	12	no	15	
+PNAPM	Limones	6	2019	APAL	otras	40	35	25	no	10	
+PNAPM	Limones	6	2019	APAL	otras	18	15	15	no	0	
+PNAPM	Limones	6	2019	APAL	otras	18	15	15	no	0	
+PNAPM	Limones	13	2019	OFAV	OFAV	n/a	n/a	n/a	no	0	no mesure
+PNAPM	Limones	13	2019	OFAV	OFAV	n/a	n/a	n/a	no	0	no mesure
+PNAPM	Limones	14	2019	OFAV	OFAV	n/a	n/a	n/a	no	0	no mesure
+PNAPM	Limones	14	2019	OFAV	OFAV	n/a	n/a	n/a	no	0	no mesure
+PNAPM	Limones	17	2019	OFAV	OFAV	n/a	n/a	n/a	no	0	no mesure
+PNAPM	Limones	20	2019	OFAV	OFAV	n/a	n/a	n/a	no	0	no mesure
+PNAPM	Limones	21	2019	OFAV	OFAV	n/a	n/a	n/a	no	0	no mesure
+PNAPM	Limones	22	2019	OFAV	OFAV	n/a	n/a	n/a	no	0	no mesure
+PNAPM	Limones	22	2019	OFAV	OFAV	n/a	n/a	n/a	no	0	no mesure
+PNAPM	Limones	22	2019	OFAV	OFAV	n/a	n/a	n/a	no	0	no mesure
+PNAPM	PuertoMorelos	Radio Pirata_cresta_1	2019	APAL	otras	10	10	5	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_1	2019	APAL	otras	10	10	5	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_1	2019	APAL	otras	5	5	5	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_1	2019	PFUR	N/A	10	5	5	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_1	2019	MMEA	otras	20	10	10	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_1	2019	PAST	N/A	10	10	1	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_1	2019	PAST	N/A	10	10	1	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_1	2019	APAL	otras	30	30	20	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_1	2019	APAL	otras	70	60	50	no	30	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_1	2019	APAL	otras	90	20	20	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_1	2019	MMEA	otras	60	20	30	no	40	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_1	2019	APAL	otras	30	20	20	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_1	2019	PFUR	N/A	40	30	10	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_1	2019	APRO	N/A	30	30	30	no	10	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_1	2019	PAST	N/A	15	10	1	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_1	2019	APAL	otras	130	120	70	no	50	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_1	2019	APAL	otras	150	70	70	no	30	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_1	2019	PAST	N/A	30	30	10	no	30	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_1	2019	PAST	N/A	10	10	1	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_1	2019	PAST	N/A	10	10	1	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_1	2019	PAST	N/A	10	10	1	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_1	2019	PAST	N/A	10	10	1	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_1	2019	PAST	N/A	10	10	1	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_1	2019	PAST	N/A	10	10	1	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_1	2019	PAST	N/A	10	10	1	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_1	2019	PAST	N/A	10	10	1	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_1	2019	PAST	N/A	10	10	1	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_1	2019	PAST	N/A	10	10	1	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_1	2019	PAST	N/A	10	10	1	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_1	2019	PAST	N/A	10	10	1	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_1	2019	PAST	N/A	10	10	1	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_1	2019	PAST	N/A	10	10	1	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_1	2019	PAST	N/A	10	10	1	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_1	2019	PAST	N/A	30	20	5	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_1	2019	PAST	N/A	30	20	5	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_1	2019	PAST	N/A	30	20	5	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_1	2019	PAST	N/A	30	20	5	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_1	2019	PAST	N/A	30	20	5	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_1	2019	PAST	N/A	30	20	5	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_1	2019	PAST	N/A	30	20	5	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_1	2019	PAST	N/A	30	20	5	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_1	2019	PAST	N/A	30	20	5	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_1	2019	PAST	N/A	30	20	5	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_1	2019	PFUR	N/A	100	100	30	no	20	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_1	2019	MMEA	otras	50	20	30	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_1	2019	PFUR	N/A	50	50	30	no	20	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_1	2019	MMEA	otras	30	30	50	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_1	2019	PAST	N/A	30	20	10	no	10	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_1	2019	UTEN	otras	100	100	50	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_1	2019	PSTR	PSTR	40	40	50	si	100	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_1	2019	PAST	N/A	20	20	20	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_1	2019	PFUR	N/A	10	10	5	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_1	2019	PFUR	N/A	20	20	5	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_1	2019	UTEN	otras	50	20	20	no	30	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_2	2019	PAST	N/A	10	10	5	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_2	2019	PAST	N/A	10	10	5	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_2	2019	PSTR	PSTR	30	20	40	si	100	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_2	2019	PAST	N/A	10	10	1	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_2	2019	PAST	N/A	10	10	1	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_2	2019	PAST	N/A	10	10	1	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_2	2019	PAST	N/A	10	10	1	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_2	2019	PAST	N/A	10	10	1	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_2	2019	PSTR	PSTR	10	10	5	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_2	2019	PFUR	N/A	30	20	5	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_2	2019	PCLI	N/A	30	20	20	no	50	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_2	2019	PSTR	PSTR	30	20	30	si	100	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_2	2019	PFUR	N/A	50	30	10	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_2	2019	SSID	SSID	50	30	30	si	95	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_2	2019	PAST	N/A	20	20	10	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_2	2019	PAST	N/A	20	20	10	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_2	2019	PSTR	PSTR	50	40	50	si	100	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_2	2019	PCLI	N/A	60	40	30	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_2	2019	PAST	N/A	30	20	20	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_3	2019	APAL	otras	280	260	80	no	30	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_3	2019	PAST	N/A	20	20	1	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_3	2019	PAST	N/A	20	20	1	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_3	2019	PAST	N/A	20	20	1	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_3	2019	PAST	N/A	20	20	1	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_3	2019	PAST	N/A	20	20	1	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_3	2019	PAST	N/A	20	20	1	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_3	2019	PAST	N/A	20	20	1	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_3	2019	PAST	N/A	20	20	1	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_3	2019	APAL	otras	120	100	70	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_3	2019	PSTR	PSTR	40	30	30	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_3	2019	SSID	SSID	60	30	40	si	15	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_3	2019	PAST	N/A	15	15	5	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_3	2019	PAST	N/A	15	15	5	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_3	2019	PAST	N/A	15	15	5	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_3	2019	PAST	N/A	15	15	5	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_3	2019	PAST	N/A	15	15	5	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_3	2019	PAST	N/A	15	15	5	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_3	2019	PAST	N/A	15	15	5	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_3	2019	PAST	N/A	15	15	5	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_3	2019	PAST	N/A	15	15	5	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_3	2019	PAST	N/A	15	15	5	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_3	2019	PSTR	PSTR	50	50	70	si	95	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_3	2019	PAST	N/A	40	40	10	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_3	2019	PAST	N/A	40	40	10	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_3	2019	PAST	N/A	40	40	10	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_3	2019	PAST	N/A	40	40	10	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_3	2019	SSID	SSID	40	40	40	si	95	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_3	2019	PAST	N/A	50	50	30	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_4	2019	PSTR	PSTR	40	40	20	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_4	2019	SSID	SSID	30	30	20	si	99	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_4	2019	SSID	SSID	50	50	30	si	100	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_4	2019	SSID	SSID	50	40	20	si	100	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_5	2019	APAL	otras	500	450	100	no	30	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_5	2019	PFUR	N/A	50	40	10	no	10	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_5	2019	APAL	otras	130	50	70	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_5	2019	APAL	otras	100	50	30	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_5	2019	APAL	otras	100	100	50	no	30	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_5	2019	SSID	SSID	40	40	40	si	95	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_5	2019	SSID	SSID	50	50	40	si	15	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_5	2019	PCLI	N/A	30	30	30	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_5	2019	APAL	otras	30	30	20	no	0	
+PNAPM	La Pared	1	2019	SSID	SSID	22	20	10	si	50	
+PNAPM	La Pared	1	2019	PAST	otras	10	5	3	no	0	
+PNAPM	La Pared	1	2019	PSTR	PSTR	25	20	10	si	100	
+PNAPM	La Pared	1	2019	PAST	otras	20	5	5	no	0	
+PNAPM	La Pared	1	2019	SSID	SSID	5	5	1	no	0	
+PNAPM	La Pared	1	2019	PAST	otras	20	10	3	no	0	
+PNAPM	La Pared	1	2019	PAST	otras	25	10	1	no	0	
+PNAPM	La Pared	1	2019	PAST	otras	20	10	1	no	0	
+PNAPM	La Pared	1	2019	PAST	otras	20	20	1	no	0	
+PNAPM	La Pared	1	2019	PAST	otras	5	5	1	no	0	
+PNAPM	La Pared	1	2019	MCAV	otras	10	10	1	no	100	
+PNAPM	La Pared	1	2019	SSID	SSID	10	10	1	no	0	
+PNAPM	La Pared	1	2019	OFAV	OFAV	40	20	1	no	0	
+PNAPM	La Pared	1	2019	OFAV	OFAV	30	20	1	no	0	
+PNAPM	La Pared	1	2019	OFAV	OFAV	30	30	5	si	50	
+PNAPM	La Pared	1	2019	PAST	otras	10	10	1	no	0	
+PNAPM	La Pared	1	2019	PAST	otras	10	10	1	no	0	
+PNAPM	La Pared	1	2019	PAST	otras	10	10	1	no	0	
+PNAPM	La Pared	1	2019	PAST	otras	30	20	1	no	30	
+PNAPM	La Pared	1	2019	UAGA	otras	10	10	1	no	0	
+PNAPM	La Pared	2	2019	UAGA	otras	15	15	3	no	0	
+PNAPM	La Pared	2	2019	PAST	otras	15	15	1	no	10	
+PNAPM	La Pared	2	2019	PAST	otras	10	10	1	no	0	
+PNAPM	La Pared	2	2019	PAST	otras	5	5	1	no	0	
+PNAPM	La Pared	2	2019	MCAV	otras	50	50	50	no	0	
+PNAPM	La Pared	2	2019	PAST	otras	10	10	1	no	0	
+PNAPM	La Pared	2	2019	PAST	otras	10	10	1	no	0	
+PNAPM	La Pared	2	2019	PAST	otras	10	10	1	no	0	
+PNAPM	La Pared	2	2019	PAST	otras	10	10	1	no	0	
+PNAPM	La Pared	2	2019	APAL	otras	15	15	15	no	0	
+PNAPM	La Pared	2	2019	PAST	otras	20	10	1	no	0	
+PNAPM	La Pared	2	2019	PAST	otras	10	10	1	no	0	
+PNAPM	La Pared	2	2019	PAST	otras	10	10	1	no	0	
+PNAPM	La Pared	2	2019	PAST	otras	10	10	1	no	0	
+PNAPM	La Pared	2	2019	PAST	otras	10	10	1	no	0	
+PNAPM	La Pared	2	2019	PAST	otras	10	10	1	no	0	
+PNAPM	La Pared	2	2019	UAGA	otras	30	20	1	no	0	
+PNAPM	La Pared	2	2019	OFAV	OFAV	10	10	5	no	0	
+PNAPM	La Pared	2	2019	OFAV	OFAV	10	10	5	no	0	
+PNAPM	La Pared	2	2019	OANN	otras	50	50	70	no	80	
+PNAPM	La Pared	2	2019	PAST	otras	15	15	1	no	0	
+PNAPM	La Pared	2	2019	PAST	otras	15	15	1	no	0	
+PNAPM	La Pared	2	2019	PAST	otras	15	15	1	no	0	
+PNAPM	La Pared	2	2019	PAST	otras	15	15	1	no	0	
+PNAPM	La Pared	2	2019	PAST	otras	15	15	1	no	0	
+PNAPM	La Pared	2	2019	PAST	otras	15	15	1	no	0	
+PNAPM	La Pared	2	2019	PAST	otras	15	15	1	no	0	
+PNAPM	La Pared	2	2019	PAST	otras	15	15	1	no	0	
+PNAPM	La Pared	2	2019	PAST	otras	15	15	1	no	0	
+PNAPM	La Pared	2	2019	PAST	otras	15	15	1	no	0	
+PNAPM	La Pared	2	2019	PAST	otras	15	15	1	no	0	
+PNAPM	La Pared	2	2019	PAST	otras	15	15	1	no	0	
+PNAPM	La Pared	2	2019	PAST	otras	15	15	1	no	0	
+PNAPM	La Pared	2	2019	UAGA	otras	25	20	1	no	0	
+PNAPM	La Pared	2	2019	OFAV	OFAV	40	20	20	no	0	
+PNAPM	La Pared	2	2019	PAST	otras	10	10	1	no	50	
+PNAPM	La Pared	2	2019	OANN	otras	40	20	40	no	0	
+PNAPM	La Pared	3	2019	OANN	otras	100	100	100	no	60	
+PNAPM	La Pared	3	2019	PAST	otras	10	10	1	no	0	
+PNAPM	La Pared	3	2019	PAST	otras	10	10	1	no	0	
+PNAPM	La Pared	3	2019	PAST	otras	10	10	1	no	0	
+PNAPM	La Pared	3	2019	PAST	otras	10	10	1	no	0	
+PNAPM	La Pared	3	2019	PAST	otras	10	10	1	no	0	
+PNAPM	La Pared	3	2019	OANN	otras	130	120	100	no	60	
+PNAPM	La Pared	3	2019	PAST	otras	30	30	1	no	0	
+PNAPM	La Pared	3	2019	PAST	otras	10	10	1	no	0	
+PNAPM	La Pared	3	2019	PAST	otras	10	10	1	no	0	
+PNAPM	La Pared	3	2019	PAST	otras	10	10	1	no	0	
+PNAPM	La Pared	3	2019	UTEN	otras	130	120	50	no	30	
+PNAPM	La Pared	3	2019	UAGA	otras	5	5	1	no	0	
+PNAPM	La Pared	3	2019	PSTR	PSTR	80	30	80	si	60	
+PNAPM	La Pared	3	2019	UAGA	otras	50	50	1	no	0	
+PNAPM	La Pared	3	2019	UAGA	otras	20	20	5	no	0	
+PNAPM	La Pared	3	2019	SSID	SSID	20	10	5	si	15	
+PNAPM	La Pared	3	2019	SSID	SSID	20	20	5	si	100	
+PNAPM	La Pared	3	2019	SSID	SSID	30	20	8	no	0	
+PNAPM	La Pared	3	2019	PAST	otras	30	20	10	no	5	
+PNAPM	La Pared	3	2019	PAST	otras	50	30	10	no	10	
+PNAPM	La Pared	3	2019	OFAV	OFAV	90	80	100	si	50	
+PNAPM	La Pared	3	2019	UTEN	otras	70	30	50	no	0	
+PNAPM	La Pared	3	2019	PAST	otras	10	10	1	no	0	
+PNAPM	La Pared	4	2019	PSTR	PSTR	30	20	30	si	100	
+PNAPM	La Pared	4	2019	SSID	SSID	20	20	10	si	100	
+PNAPM	La Pared	4	2019	PSTR	PSTR	20	20	10	si	100	
+PNAPM	La Pared	4	2019	PAST	otras	10	10	1	no	0	
+PNAPM	La Pared	4	2019	MCAV	otras	30	20	60	no	40	
+PNAPM	La Pared	4	2019	MCAV	otras	40	20	30	no	0	
+PNAPM	La Pared	4	2019	SSID	SSID	30	20	15	si	95	
+PNAPM	La Pared	4	2019	SSID	SSID	20	10	10	si	100	
+PNAPM	La Pared	1	2019	PSTR	PSTR	n/a	n/a	n/a	si	0	no mesure
+PNAPM	La Pared	3	2019	PSTR	PSTR	n/a	n/a	n/a	si	0	no mesure
+PNAPM	La Pared	4	2019	PSTR	PSTR	n/a	n/a	n/a	no	0	no mesure
+PNAPM	La Pared	1	2019	SSID	SSID	n/a	n/a	n/a	si	20	no mesure
+PNAPM	La Pared	1	2019	SSID	SSID	n/a	n/a	n/a	no	0	no mesure
+PNAPM	La Pared	2	2019	SSID	SSID	n/a	n/a	n/a	no	0	no mesure
+PNAPM	La Pared	2	2019	SSID	SSID	n/a	n/a	n/a	si	15	no mesure
+PNAPM	La Pared	2	2019	SSID	SSID	n/a	n/a	n/a	si	30	no mesure
+PNAPM	La Pared	2	2019	SSID	SSID	n/a	n/a	n/a	no	0	no mesure
+PNAPM	La Pared	2	2019	SSID	SSID	n/a	n/a	n/a	si	25	no mesure
+PNAPM	La Pared	3	2019	SSID	SSID	n/a	n/a	n/a	si	20	no mesure
+PNAPM	La Pared	4	2019	SSID	SSID	n/a	n/a	n/a	si	100	no mesure
+PNAPM	La Pared	4	2019	SSID	SSID	n/a	n/a	n/a	si	20	no mesure
+PNAPM	La Pared	4	2019	SSID	SSID	n/a	n/a	n/a	no	0	no mesure
+PNAPM	La Pared	5	2019	SSID	SSID	n/a	n/a	n/a	si	20	no mesure
+PNAPM	La Pared	6	2019	SSID	SSID	n/a	n/a	n/a	no	0	no mesure
+PNAPM	La Pared	6	2019	SSID	SSID	n/a	n/a	n/a	si	15	no mesure
+PNAPM	La Pared	7	2019	SSID	SSID	n/a	n/a	n/a	si	15	no mesure
+PNAPM	La Pared	7	2019	SSID	SSID	n/a	n/a	n/a	si	50	no mesure
+PNAPM	La Pared	8	2019	SSID	SSID	n/a	n/a	n/a	no	0	no mesure
+PNAPM	La Pared	8	2019	SSID	SSID	n/a	n/a	n/a	no	0	no mesure
+PNAPM	La Pared	8	2019	SSID	SSID	n/a	n/a	n/a	si	15	no mesure
+PNAPM	La Pared	9	2019	SSID	SSID	n/a	n/a	n/a	no	10	no mesure
+PNAPM	La Pared	9	2019	SSID	SSID	n/a	n/a	n/a	si	20	no mesure
+PNAPM	La Pared	3	2019	SSID	SSID	n/a	n/a	n/a	si	15	no mesure
+PNAPM	La Pared	3	2019	SSID	SSID	n/a	n/a	n/a	si	100	no mesure
+PNAPM	La Pared	3	2019	SSID	SSID	n/a	n/a	n/a	no	0	no mesure
+PNAPM	La Pared	3	2019	SSID	SSID	n/a	n/a	n/a	no	5	no mesure
+PNAPM	La Pared	3	2019	SSID	SSID	n/a	n/a	n/a	no	10	no mesure
+PNAPM	La Pared	3	2019	SSID	SSID	n/a	n/a	n/a	si	25	no mesure
+PNAPM	La Pared	1	2019	OFAV	OFAV	n/a	n/a	n/a	no	0	no mesure
+PNAPM	La Pared	1	2019	OFAV	OFAV	n/a	n/a	n/a	no	0	no mesure
+PNAPM	La Pared	2	2019	OFAV	OFAV	n/a	n/a	n/a	si	20	no mesure
+PNAPM	La Pared	2	2019	OFAV	OFAV	n/a	n/a	n/a	no	0	no mesure
+PNAPM	La Pared	2	2019	OFAV	OFAV	n/a	n/a	n/a	no	0	no mesure
+PNAPM	La Pared	2	2019	OFAV	OFAV	n/a	n/a	n/a	si	15	no mesure
+PNAPM	La Pared	3	2019	OFAV	OFAV	n/a	n/a	n/a	si	15	no mesure
+PNAPM	La Pared	4	2019	OFAV	OFAV	n/a	n/a	n/a	si	20	no mesure
+PNAPM	La Pared	4	2019	OFAV	OFAV	n/a	n/a	n/a	si	25	no mesure
+PNAPM	La Pared	5	2019	OFAV	OFAV	n/a	n/a	n/a	no	0	no mesure
+PNAPM	La Pared	5	2019	OFAV	OFAV	n/a	n/a	n/a	no	0	no mesure
+PNAPM	La Pared	5	2019	OFAV	OFAV	n/a	n/a	n/a	si	20	no mesure
+PNAPM	La Pared	5	2019	OFAV	OFAV	n/a	n/a	n/a	si	20	no mesure
+PNAPM	La Pared	6	2019	OFAV	OFAV	n/a	n/a	n/a	si	20	no mesure
+PNAPM	La Pared	6	2019	OFAV	OFAV	n/a	n/a	n/a	si	20	no mesure
+PNAPM	La Pared	7	2019	OFAV	OFAV	n/a	n/a	n/a	si	20	no mesure
+PNAPM	La Pared	8	2019	OFAV	OFAV	n/a	n/a	n/a	si	20	no mesure
+PNAPM	La Pared	8	2019	OFAV	OFAV	n/a	n/a	n/a	si	20	no mesure
+PNAPM	La Pared	9	2019	OFAV	OFAV	n/a	n/a	n/a	no	0	no mesure
+PNAPM	Tanchacte	1	2019	DCYL	DCYL	150	110	175	si	100	
+PNAPM	Tanchacte	1	2019	OFAV	OFAV	120	90	110	si	30	
+PNAPM	Tanchacte	1	2019	PSTR	PSTR	30	20	20	si	60	
+PNAPM	Tanchacte	1	2019	PCLI	otras	20	20	60	no	0	
+PNAPM	Tanchacte	1	2019	OFAV	OFAV	110	100	70	si	40	
+PNAPM	Tanchacte	1	2019	OFAV	OFAV	70	50	70	si	100	
+PNAPM	Tanchacte	1	2019	APAL	otras	170	130	70	no	70	
+PNAPM	Tanchacte	1	2019	OFAV	OFAV	40	30	95	no	0	
+PNAPM	Tanchacte	1	2019	UTEN	otras	60	50	30	no	50	
+PNAPM	Tanchacte	1	2019	OFAV	OFAV	50	40	50	no	10	
+PNAPM	Tanchacte	1	2019	APAL	otras	70	50	50	no	0	
+PNAPM	Tanchacte	1	2019	SSID	SSID	60	40	25	si	95	
+PNAPM	Tanchacte	1	2019	PSTR	PSTR	90	70	30	si	100	
+PNAPM	Tanchacte	1	2019	PSTR	PSTR	90	80	50	si	30	
+PNAPM	Tanchacte	1	2019	PCLI	otras	20	20	20	no	0	
+PNAPM	Tanchacte	1	2019	PAST	otras	20	20	5	no	0	
+PNAPM	Tanchacte	1	2019	PAST	otras	5	5	1	no	0	
+PNAPM	Tanchacte	1	2019	PAST	otras	20	10	1	no	0	
+PNAPM	Tanchacte	1	2019	PAST	otras	20	10	1	no	0	
+PNAPM	Tanchacte	1	2019	OFAV	OFAV	50	50	55	no	0	
+PNAPM	Tanchacte	1	2019	APAL	otras	100	100	70	no	50	
+PNAPM	Tanchacte	2	2019	APAL	otras	50	30	20	no	30	
+PNAPM	Tanchacte	2	2019	APAL	otras	30	10	20	no	0	
+PNAPM	Tanchacte	2	2019	PSTR	PSTR	100	50	100	si	90	
+PNAPM	Tanchacte	2	2019	PAST	otras	10	10	1	no	0	
+PNAPM	Tanchacte	2	2019	PAST	otras	10	10	1	no	0	
+PNAPM	Tanchacte	2	2019	OFAV	OFAV	70	60	80	si	70	
+PNAPM	Tanchacte	2	2019	PAST	otras	25	20	10	no	0	
+PNAPM	Tanchacte	2	2019	PAST	otras	20	20	10	no	0	
+PNAPM	Tanchacte	2	2019	OFAV	OFAV	30	30	70	no	0	
+PNAPM	Tanchacte	2	2019	OFAV	OFAV	100	100	70	si	60	
+PNAPM	Tanchacte	2	2019	OFAV	OFAV	100	100	60	si	50	
+PNAPM	Tanchacte	2	2019	OFAV	OFAV	100	100	75	si	33	
+PNAPM	Tanchacte	2	2019	APAL	otras	60	60	65	no	40	
+PNAPM	Tanchacte	2	2019	PSTR	PSTR	30	30	40	si	100	
+PNAPM	Tanchacte	2	2019	OFAV	OFAV	50	30	50	si	30	
+PNAPM	Tanchacte	3	2019	PSTR	PSTR	65	50	80	si	30	
+PNAPM	Tanchacte	3	2019	APAL	otras	80	50	50	no	0	
+PNAPM	Tanchacte	3	2019	APAL	otras	60	40	30	no	10	
+PNAPM	Tanchacte	3	2019	PFUR	otras	10	5	5	no	0	
+PNAPM	Tanchacte	3	2019	SSID	SSID	30	30	10	no	0	
+PNAPM	Tanchacte	3	2019	APAL	otras	100	50	60	no	10	
+PNAPM	Tanchacte	3	2019	APAL	otras	40	30	30	no	50	
+PNAPM	Tanchacte	3	2019	PFUR	otras	5	5	1	no	0	
+PNAPM	Tanchacte	3	2019	APAL	otras	10	5	10	no	0	
+PNAPM	Tanchacte	3	2019	APAL	otras	40	30	20	no	0	
+PNAPM	Tanchacte	3	2019	APAL	otras	30	10	30	no	10	
+PNAPM	Tanchacte	3	2019	APAL	otras	150	100	50	no	0	
+PNAPM	Tanchacte	3	2019	APAL	otras	150	100	80	no	0	
+PNAPM	Tanchacte	3	2019	APAL	otras	80	50	40	no	0	no mesure
+PNAPM	Tanchacte	3	2019	APAL	otras	30	20	10	no	0	no mesure
+PNAPM	Tanchacte	3	2019	APAL	otras	10	10	3	no	0	no mesure
+PNAPM	Tanchacte	3	2019	APAL	otras	140	100	70	no	10	no mesure
+PNAPM	Tanchacte	3	2019	APAL	otras	120	70	90	no	0	no mesure
+PNAPM	Tanchacte	3	2019	APAL	otras	20	10	15	no	0	no mesure
+PNAPM	Tanchacte	3	2019	PFUR	otras	5	5	5	no	0	no mesure
+PNAPM	Tanchacte	3	2019	PFUR	otras	5	5	5	no	0	no mesure
+PNAPM	Tanchacte	3	2019	APAL	otras	40	30	10	no	0	no mesure
+PNAPM	Tanchacte	3	2019	APAL	otras	80	20	60	no	0	no mesure
+PNAPM	Tanchacte	3	2019	APAL	otras	50	30	30	no	20	no mesure
+PNAPM	Tanchacte	3	2019	APAL	otras	80	30	50	no	0	no mesure
+PNAPM	Tanchacte	3	2019	APAL	otras	30	30	20	no	0	no mesure
+PNAPM	Tanchacte	3	2019	APAL	otras	50	30	30	no	10	no mesure
+PNAPM	Tanchacte	3	2019	APAL	otras	100	100	50	no	20	no mesure
+PNAPM	Tanchacte	4	2019	APAL	otras	20	20	10	no	0	no mesure
+PNAPM	Tanchacte	4	2019	APAL	otras	30	10	10	no	0	no mesure
+PNAPM	Tanchacte	4	2019	APAL	otras	170	130	100	no	30	no mesure
+PNAPM	Tanchacte	4	2019	PAST	otras	30	20	20	no	0	no mesure
+PNAPM	Tanchacte	4	2019	PCLI	otras	60	50	50	no	0	no mesure
+PNAPM	Tanchacte	4	2019	APAL	otras	30	20	10	no	0	no mesure
+PNAPM	Tanchacte	4	2019	APAL	otras	30	20	10	no	0	no mesure
+PNAPM	Tanchacte	4	2019	APAL	otras	30	20	10	no	0	no mesure
+PNAPM	Tanchacte	4	2019	APAL	otras	100	40	100	no	0	no mesure
+PNAPM	Tanchacte	4	2019	APAL	otras	110	100	80	no	10	no mesure
+PNAPM	Tanchacte	4	2019	APAL	otras	60	50	10	no	0	no mesure
+PNAPM	Tanchacte	4	2019	APAL	otras	80	70	60	no	0	no mesure
+PNAPM	Tanchacte	4	2019	APAL	otras	250	210	160	no	0	no mesure
+PNAPM	Tanchacte	4	2019	APAL	otras	150	130	90	no	0	no mesure
+PNAPM	Tanchacte	4	2019	SSID	SSID	50	30	20	si	30	no mesure
+PNAPM	Tanchacte	5	2019	APAL	otras	30	30	3	no	0	no mesure
+PNAPM	Tanchacte	5	2019	APAL	otras	100	30	20	no	0	no mesure
+PNAPM	Tanchacte	5	2019	APAL	otras	100	40	40	no	60	no mesure
+PNAPM	Tanchacte	5	2019	APAL	otras	180	80	100	no	0	no mesure
+PNAPM	Tanchacte	5	2019	PSTR	PSTR	30	20	20	no	0	no mesure
+PNAPM	Tanchacte	5	2019	SSID	SSID	30	20	15	no	0	no mesure
+PNAPM	Tanchacte	5	2019	OFAV	OFAV	50	50	10	no	0	no mesure
+PNAPM	Tanchacte	5	2019	PSTR	PSTR	30	30	20	si	100	no mesure
+PNAPM	Tanchacte	5	2019	OFAV	OFAV	50	40	50	no	0	no mesure
+PNAPM	Tanchacte	5	2019	APAL	otras	80	50	60	no	0	no mesure
+PNAPM	Tanchacte	5	2019	OFAV	OFAV	60	50	40	si	40	no mesure
+PNAPM	Tanchacte	5	2019	APAL	otras	100	100	100	no	30	no mesure
+PNAPM	Tanchacte	5	2019	APAL	otras	100	50	50	no	0	no mesure
+PNAPM	Tanchacte	5	2019	APAL	otras	110	100	70	no	10	no mesure
+PNAPM	Tanchacte	6	2019	APAL	otras	130	120	10	no	0	no mesure
+PNAPM	Tanchacte	6	2019	OFAV	OFAV	100	60	50	no	0	no mesure
+PNAPM	Tanchacte	6	2019	OFAV	OFAV	80	60	70	no	0	no mesure
+PNAPM	Tanchacte	6	2019	PCLI	otras	40	20	40	no	0	no mesure
+PNAPM	Tanchacte	6	2019	OFAV	OFAV	20	20	10	no	0	no mesure
+PNAPM	Tanchacte	6	2019	OFAV	OFAV	50	50	70	no	0	no mesure
+PNAPM	Tanchacte	6	2019	SSID	SSID	60	50	30	no	0	no mesure
+PNAPM	Tanchacte	6	2019	OFAV	OFAV	100	100	70	no	0	no mesure
+PNAPM	Tanchacte	6	2019	PSTR	PSTR	30	20	20	no	0	no mesure
+PNAPM	Tanchacte	6	2019	OFAV	OFAV	50	50	60	no	0	no mesure
+PNAPM	Tanchacte	6	2019	APAL	otras	60	30	50	no	0	no mesure
+PNAPM	Tanchacte	6	2019	OFAV	OFAV	100	100	80	no	0	no mesure
+PNAPM	Tanchacte	6	2019	OFAV	OFAV	110	100	100	no	0	no mesure
+PNAPM	Tanchacte	6	2019	OFAV	OFAV	130	100	105	no	0	no mesure
+PNAPM	Tanchacte	6	2019	APAL	otras	200	160	60	no	0	no mesure
+PNAPM	Tanchacte	6	2019	PSTR	PSTR	n/a	n/a	n/a	no	0	no mesure
+PNAPM	Tanchacte	6	2019	PSTR	PSTR	n/a	n/a	n/a	no	10	no mesure
+PNAPM	Tanchacte	6	2019	PSTR	PSTR	n/a	n/a	n/a	no	0	no mesure
+PNAPM	Tanchacte	6	2019	PSTR	PSTR	n/a	n/a	n/a	no	0	no mesure
+PNAPM	Tanchacte	6	2019	PSTR	PSTR	n/a	n/a	n/a	si	20	no mesure
+PNAPM	Tanchacte	6	2019	PSTR	PSTR	n/a	n/a	n/a	no	0	no mesure
+PNAPM	Tanchacte	6	2019	PSTR	PSTR	n/a	n/a	n/a	no	0	no mesure
+PNAPM	Tanchacte	6	2019	PSTR	PSTR	n/a	n/a	n/a	no	0	no mesure
+PNAPM	Tanchacte	6	2019	PSTR	PSTR	n/a	n/a	n/a	no	0	no mesure
+PNAPM	Tanchacte	6	2019	PSTR	PSTR	n/a	n/a	n/a	no	0	no mesure
+PNAPM	Tanchacte	6	2019	PSTR	PSTR	n/a	n/a	n/a	no	10	no mesure
+PNAPM	Tanchacte	6	2019	PSTR	PSTR	n/a	n/a	n/a	no	0	no mesure
+PNAPM	Tanchacte	6	2019	PSTR	PSTR	n/a	n/a	n/a	no	10	no mesure
+PNAPM	Tanchacte	6	2019	PSTR	PSTR	n/a	n/a	n/a	no	0	no mesure
+PNAPM	Tanchacte	3	2019	PSTR	PSTR	n/a	n/a	n/a	no	0	no mesure
+PNAPM	Tanchacte	3	2019	PSTR	PSTR	n/a	n/a	n/a	no	0	no mesure
+PNAPM	Tanchacte	3	2019	PSTR	PSTR	n/a	n/a	n/a	no	0	no mesure
+PNAPM	Tanchacte	1	2019	PSTR	PSTR	n/a	n/a	n/a	no	0	no mesure
+PNAPM	Tanchacte	1	2019	PSTR	PSTR	n/a	n/a	n/a	no	0	no mesure
+PNAPM	Tanchacte	1	2019	PSTR	PSTR	n/a	n/a	n/a	si	70	no mesure
+PNAPM	Tanchacte	1	2019	PSTR	PSTR	n/a	n/a	n/a	no	10	no mesure
+PNAPM	Tanchacte	2	2019	PSTR	PSTR	n/a	n/a	n/a	si	50	no mesure
+PNAPM	Tanchacte	2	2019	PSTR	PSTR	n/a	n/a	n/a	si	100	no mesure
+PNAPM	Tanchacte	2	2019	PSTR	PSTR	n/a	n/a	n/a	si	100	no mesure
+PNAPM	Tanchacte	2	2019	PSTR	PSTR	n/a	n/a	n/a	si	70	no mesure
+PNAPM	Tanchacte	2	2019	PSTR	PSTR	n/a	n/a	n/a	si	50	no mesure
+PNAPM	Tanchacte	2	2019	PSTR	PSTR	n/a	n/a	n/a	si	100	
+PNAPM	Tanchacte	2	2019	PSTR	PSTR	n/a	n/a	n/a	no	0	
+PNAPM	Tanchacte	2	2019	PSTR	PSTR	n/a	n/a	n/a	si	50	
+PNAPM	Tanchacte	3	2019	PSTR	PSTR	n/a	n/a	n/a	si	80	
+PNAPM	Tanchacte	3	2019	PSTR	PSTR	n/a	n/a	n/a	no	0	
+PNAPM	Tanchacte	3	2019	PSTR	PSTR	n/a	n/a	n/a	no	10	
+PNAPM	Tanchacte	3	2019	PSTR	PSTR	n/a	n/a	n/a	no	0	
+PNAPM	Tanchacte	5	2019	PSTR	PSTR	n/a	n/a	n/a	no	100	
+PNAPM	Tanchacte	5	2019	PSTR	PSTR	n/a	n/a	n/a	si	75	
+PNAPM	Tanchacte	5	2019	PSTR	PSTR	n/a	n/a	n/a	si	100	
+PNAPM	Tanchacte	8	2019	PSTR	PSTR	n/a	n/a	n/a	no	10	
+PNAPM	Tanchacte	8	2019	PSTR	PSTR	n/a	n/a	n/a	no	5	
+PNAPM	Tanchacte	9	2019	PSTR	PSTR	n/a	n/a	n/a	no	0	
+PNAPM	Tanchacte	9	2019	PSTR	PSTR	n/a	n/a	n/a	no	0	
+PNAPM	Tanchacte	10	2019	PSTR	PSTR	n/a	n/a	n/a	no	10	
+PNAPM	Tanchacte	11	2019	PSTR	PSTR	n/a	n/a	n/a	no	5	
+PNAPM	Tanchacte	6	2019	SSID	SSID	n/a	n/a	n/a	n/a	0	
+PNAPM	Tanchacte	6	2019	SSID	SSID	n/a	n/a	n/a	n/a	0	
+PNAPM	Tanchacte	6	2019	SSID	SSID	n/a	n/a	n/a	n/a	0	
+PNAPM	Tanchacte	6	2019	SSID	SSID	n/a	n/a	n/a	n/a	0	
+PNAPM	Tanchacte	6	2019	SSID	SSID	n/a	n/a	n/a	n/a	0	
+PNAPM	Tanchacte	6	2019	SSID	SSID	n/a	n/a	n/a	n/a	0	
+PNAPM	Tanchacte	6	2019	SSID	SSID	n/a	n/a	n/a	n/a	0	
+PNAPM	Tanchacte	6	2019	SSID	SSID	n/a	n/a	n/a	n/a	0	
+PNAPM	Tanchacte	3	2019	SSID	SSID	n/a	n/a	n/a	n/a	0	
+PNAPM	Tanchacte	3	2019	SSID	SSID	n/a	n/a	n/a	n/a	0	
+PNAPM	Tanchacte	3	2019	SSID	SSID	n/a	n/a	n/a	n/a	0	
+PNAPM	Tanchacte	3	2019	SSID	SSID	n/a	n/a	n/a	n/a	0	
+PNAPM	Tanchacte	3	2019	SSID	SSID	n/a	n/a	n/a	n/a	0	
+PNAPM	Tanchacte	3	2019	SSID	SSID	n/a	n/a	n/a	n/a	0	
+PNAPM	Tanchacte	1	2019	SSID	SSID	n/a	n/a	n/a	si	95	
+PNAPM	Tanchacte	2	2019	SSID	SSID	n/a	n/a	n/a	n/a	0	
+PNAPM	Tanchacte	2	2019	SSID	SSID	n/a	n/a	n/a	n/a	0	
+PNAPM	Tanchacte	2	2019	SSID	SSID	n/a	n/a	n/a	n/a	0	
+PNAPM	Tanchacte	4	2019	SSID	SSID	n/a	n/a	n/a	n/a	0	
+PNAPM	Tanchacte	4	2019	SSID	SSID	n/a	n/a	n/a	n/a	0	
+PNAPM	Tanchacte	6	2019	SSID	SSID	n/a	n/a	n/a	n/a	0	
+PNAPM	Tanchacte	6	2019	SSID	SSID	n/a	n/a	n/a	n/a	0	
+PNAPM	Tanchacte	6	2019	SSID	SSID	n/a	n/a	n/a	n/a	0	
+PNAPM	Tanchacte	8	2019	SSID	SSID	n/a	n/a	n/a	n/a	0	
+PNAPM	Tanchacte	8	2019	SSID	SSID	n/a	n/a	n/a	n/a	0	
+PNAPM	Tanchacte	8	2019	SSID	SSID	n/a	n/a	n/a	n/a	0	
+PNAPM	Tanchacte	6	2019	OFAV	OFAV	n/a	n/a	n/a	n/a	0	
+PNAPM	Tanchacte	6	2019	OFAV	OFAV	n/a	n/a	n/a	n/a	0	
+PNAPM	Tanchacte	3	2019	OFAV	OFAV	n/a	n/a	n/a	n/a	0	
+PNAPM	Tanchacte	1	2019	OFAV	OFAV	n/a	n/a	n/a	n/a	0	
+PNAPM	Tanchacte	1	2019	OFAV	OFAV	n/a	n/a	n/a	n/a	0	
+PNAPM	Tanchacte	2	2019	OFAV	OFAV	n/a	n/a	n/a	n/a	0	
+PNAPM	Tanchacte	2	2019	OFAV	OFAV	n/a	n/a	n/a	n/a	0	
+PNAPM	Tanchacte	2	2019	OFAV	OFAV	n/a	n/a	n/a	n/a	0	
+PNAPM	Tanchacte	3	2019	OFAV	OFAV	n/a	n/a	n/a	n/a	0	
+PNAPM	Tanchacte	3	2019	OFAV	OFAV	n/a	n/a	n/a	si	100	
+PNAPM	Tanchacte	3	2019	OFAV	OFAV	n/a	n/a	n/a	n/a	0	
+PNAPM	Tanchacte	3	2019	OFAV	OFAV	n/a	n/a	n/a	n/a	0	
+PNAPM	Tanchacte	4	2019	OFAV	OFAV	n/a	n/a	n/a	n/a	0	
+PNAPM	Tanchacte	4	2019	OFAV	OFAV	n/a	n/a	n/a	n/a	0	
+PNAPM	Tanchacte	6	2019	OFAV	OFAV	n/a	n/a	n/a	n/a	0	
+PNAPM	Tanchacte	6	2019	OFAV	OFAV	n/a	n/a	n/a	n/a	0	
+PNAPM	Tanchacte	8	2019	OFAV	OFAV	n/a	n/a	n/a	n/a	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_6	2019	OFAV	OFAV	70	50	30	si	100	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_6	2019	PSTR	PSTR	40	30	20	si	100	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_6	2019	SSID	SSID	40	40	20	si	95	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_6	2019	PSTR	PSTR	60	50	40	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_6	2019	PSTR	PSTR	30	20	10	si	100	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_6	2019	SSID	SSID	10	10	5	si	100	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_6	2019	SSID	SSID	10	10	8	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_6	2019	SSID	SSID	50	50	40	si	20	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_6	2019	SSID	SSID	20	10	5	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_6	2019	PAST	N/A	20	20	10	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_7	2019	PAST	N/A	20	20	10	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_7	2019	UTEN	otras	30	30	10	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_7	2019	UTEN	otras	50	30	30	no	20	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_7	2019	PAST	N/A	10	10	3	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_7	2019	PPOR	N/A	12	12	10	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_7	2019	APAL	otras	100	100	80	no	95	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_7	2019	PAST	N/A	10	10	3	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_7	2019	PAST	N/A	40	40	5	no	50	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_7	2019	PPOR	N/A	50	40	10	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_7	2019	PPOR	N/A	50	40	20	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_7	2019	OFRA	N/A	5	5	2	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_7	2019	PAST	N/A	10	10	5	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_7	2019	PAST	N/A	5	3	2	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_7	2019	PAST	N/A	8	8	2	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_7	2019	UAGA	otras	5	5	2	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_7	2019	PFUR	N/A	140	100	30	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_7	2019	PAST	N/A	10	10	2	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_7	2019	PAST	N/A	10	8	2	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_7	2019	PFUR	N/A	5	5	4	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_7	2019	PPOR	N/A	5	5	3	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_7	2019	PAST	N/A	10	10	5	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_7	2019	PFUR	N/A	20	20	8	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_8	2019	PAST	N/A	10	10	3	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_8	2019	PPOR	N/A	30	20	10	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_8	2019	SSID	SSID	60	50	30	si	30	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_8	2019	UAGA	otras	20	20	10	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_8	2019	PAST	N/A	10	10	3	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_8	2019	UTEN	otras	50	40	10	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_8	2019	PAST	N/A	10	10	3	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_8	2019	SSID	SSID	80	40	20	si	80	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_9	2019	APAL	otras	400	300	100	no	90	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_9	2019	APAL	otras	30	20	20	no	30	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_9	2019	PFUR	N/A	30	20	10	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_9	2019	PAST	N/A	20	10	4	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_9	2019	PFUR	N/A	50	20	15	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_9	2019	SSID	SSID	50	30	30	si	20	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_9	2019	SSID	SSID	40	40	20	si	20	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_9	2019	SSID	SSID	70	50	30	si	100	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_9	2019	PSTR	PSTR	50	40	20	si	100	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_9	2019	PAST	N/A	20	20	10	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_9	2019	PAST	N/A	5	5	2	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_9	2019	APAL	otras	40	30	20	no	30	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_9	2019	PSTR	PSTR	60	40	40	si	95	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_9	2019	PSTR	PSTR	20	20	30	si	100	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_9	2019	PSTR	PSTR	30	20	10	si	100	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_9	2019	SSID	SSID	50	40	40	si	80	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_7	2019	PAST	N/A	20	20	10	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_7	2019	PAST	N/A	10	10	3	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_7	2019	PAST	N/A	10	10	3	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_7	2019	PAST	N/A	10	10	3	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_7	2019	PAST	N/A	10	10	3	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_7	2019	PAST	N/A	10	10	3	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_7	2019	PAST	N/A	10	10	3	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_7	2019	PAST	N/A	10	10	3	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_7	2019	PAST	N/A	10	10	3	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_7	2019	PAST	N/A	10	10	3	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_7	2019	PAST	N/A	10	10	3	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_7	2019	PAST	N/A	10	10	3	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_7	2019	PAST	N/A	10	10	3	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_7	2019	PAST	N/A	10	10	3	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_7	2019	PAST	N/A	10	10	3	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_7	2019	PAST	N/A	8	8	2	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_7	2019	PAST	N/A	8	8	2	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_7	2019	PAST	N/A	8	8	2	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_7	2019	PAST	N/A	8	8	2	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_7	2019	PAST	N/A	10	10	2	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_7	2019	PAST	N/A	10	10	2	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_7	2019	PAST	N/A	10	10	2	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_7	2019	PAST	N/A	10	10	2	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_7	2019	PAST	N/A	10	10	2	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_7	2019	PAST	N/A	10	10	2	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_7	2019	PAST	N/A	10	8	2	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_7	2019	PAST	N/A	10	8	2	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_7	2019	PAST	N/A	10	8	2	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_7	2019	PAST	N/A	10	8	2	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_7	2019	PAST	N/A	10	8	2	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_7	2019	PAST	N/A	10	8	2	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_8	2019	PAST	N/A	10	10	3	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_8	2019	PAST	N/A	10	10	3	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_8	2019	PAST	N/A	10	10	3	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_8	2019	PAST	N/A	10	10	3	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_8	2019	PAST	N/A	10	10	3	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_8	2019	PAST	N/A	10	10	3	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_8	2019	PAST	N/A	10	10	3	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_8	2019	PAST	N/A	10	10	3	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_8	2019	PAST	N/A	10	10	3	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_8	2019	PAST	N/A	10	10	3	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_8	2019	PAST	N/A	10	10	3	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_8	2019	PAST	N/A	10	10	3	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_8	2019	PAST	N/A	10	10	3	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_8	2019	PAST	N/A	10	10	3	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_8	2019	PAST	N/A	10	10	3	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_8	2019	PAST	N/A	10	10	3	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_8	2019	PAST	N/A	10	10	3	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_8	2019	PAST	N/A	10	10	3	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_8	2019	PAST	N/A	10	10	3	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_8	2019	PAST	N/A	10	10	3	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_8	2019	PAST	N/A	10	10	3	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_8	2019	PAST	N/A	10	10	3	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_8	2019	PAST	N/A	10	10	3	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_8	2019	PAST	N/A	10	10	3	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_8	2019	PAST	N/A	10	10	3	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_8	2019	PAST	N/A	10	10	3	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_8	2019	PAST	N/A	10	10	3	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_8	2019	PAST	N/A	10	10	3	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_8	2019	PAST	N/A	10	10	3	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_8	2019	PAST	N/A	10	10	3	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_8	2019	PAST	N/A	10	10	3	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_8	2019	PAST	N/A	10	10	3	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_8	2019	PAST	N/A	10	10	3	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_8	2019	PAST	N/A	10	10	3	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_8	2019	PAST	N/A	10	10	3	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_9	2019	PFUR	N/A	52	20	15	no	0	
+PNAPM	PuertoMorelos	Radio Pirata_cresta_9	2019	PSTR	PSTR	20	20	30	si	100	
+PNAPM		Radio Pirata_cresta_ 1	2019	OFAV	OFAV	n/a	n/a	n/a	si	40	no mesure
+PNAPM		Radio Pirata_cresta_2	2019	OFAV	OFAV	n/a	n/a	n/a	si	50	no mesure
+PNAPM		Radio Pirata_cresta_2	2019	OFAV	OFAV	n/a	n/a	n/a	si	30	no mesure
+PNAPM		Radio Pirata_cresta_2	2019	OFAV	OFAV	n/a	n/a	n/a	no	0	no mesure
+PNAPM		Radio Pirata_cresta_2	2019	OFAV	OFAV	n/a	n/a	n/a	no	0	no mesure
+PNAPM		Radio Pirata_cresta_2	2019	OFAV	OFAV	n/a	n/a	n/a	no	0	no mesure
+PNAPM		Radio Pirata_cresta_2	2019	OFAV	OFAV	n/a	n/a	n/a	no	0	no mesure
+PNAPM		Radio Pirata_cresta_3	2019	OFAV	OFAV	n/a	n/a	n/a	no	10	no mesure
+PNAPM		Radio Pirata_cresta_3	2019	OFAV	OFAV	n/a	n/a	n/a	no	0	no mesure
+PNAPM		Radio Pirata_cresta_3	2019	OFAV	OFAV	n/a	n/a	n/a	no	0	no mesure
+PNAPM		Radio Pirata_cresta_3	2019	OFAV	OFAV	n/a	n/a	n/a	no	0	no mesure
+PNAPM		Radio Pirata_cresta_4	2019	OFAV	OFAV	n/a	n/a	n/a	si	25	no mesure
+PNAPM		Radio Pirata_cresta_4	2019	OFAV	OFAV	n/a	n/a	n/a	si	31	no mesure
+PNAPM		Radio Pirata_cresta_4	2019	OFAV	OFAV	n/a	n/a	n/a	no	5	no mesure
+PNAPM		Radio Pirata_cresta_5	2019	OFAV	OFAV	n/a	n/a	n/a	no	0	no mesure
+PNAPM		Radio Pirata_cresta_5	2019	OFAV	OFAV	n/a	n/a	n/a	no	0	no mesure
+PNAPM		5	2019	PAST	otras	12	12	10	no	40	
+PNAPM		5	2019	OANN	otras	130	120	110	no	50	
+PNAPM		5	2019	PAST	otras	7	7	4	no	0	
+PNAPM		5	2019	PAST	otras	15	10	8	no	0	
+PNAPM		5	2019	UAGA	otras	8	8	3	no	0	
+PNAPM		5	2019	PAST	otras	12	8	3	no	0	
+PNAPM		5	2019	PSTR	PSTR	100	50	100	si	45	
+PNAPM		5	2019	PAST	otras	10	10	4	no	0	
+PNAPM		5	2019	UAGA	otras	10	10	3	no	0	
+PNAPM		5	2019	UAGA	otras	5	5	4	no	0	
+PNAPM		5	2019	PAST	otras	10	10	3	no	0	
+PNAPM		5	2019	UAGA	otras	10	10	3	no	0	
+PNAPM		5	2019	PAST	otras	10	8	10	no	0	
+PNAPM		5	2019	SSID	SSID	20	20	14	si	15	
+PNAPM		5	2019	MCAV	otras	20	20	10	no	20	
+PNAPM		6	2019	UAGA	otras	20	20	20	no	0	
+PNAPM		6	2019	MCAV	otras	60	40	30	no	30	
+PNAPM		6	2019	MCAV	otras	70	40	8	no	28	
+PNAPM		6	2019	UAGA	otras	15	10	5	no	0	
+PNAPM		6	2019	MCAV	otras	20	10	30	no	0	
+PNAPM		6	2019	MCAV	otras	70	60	30	no	70	
+PNAPM		6	2019	OFAV	OFAV	10	10	40	no	0	
+PNAPM		6	2019	OANN	otras	100	100	20	no	20	
+PNAPM		6	2019	UAGA	otras	10	10	10	no	0	
+PNAPM		6	2019	PSTR	PSTR	30	20	8	si	100	
+PNAPM		6	2019	SSID	SSID	15	15	20	no	0	
+PNAPM		6	2019	PSTR	PSTR	40	40	40	si	100	
+PNAPM		6	2019	PSTR	PSTR	60	40	20	si	100	
+PNAPM		7	2019	SSID	SSID	16	10	10	si	50	
+PNAPM		7	2019	UTEN	otras	20	20	10	no	0	
+PNAPM		7	2019	PSTR	PSTR	30	20	10	si	100	
+PNAPM		7	2019	PAST	otras	12	10	10	no	0	
+PNAPM		7	2019	OANN	otras	30	20	10	no	0	
+PNAPM		7	2019	OANN	otras	5	5	6	no	0	
+PNAPM		7	2019	UTEN	otras	30	30	15	no	0	
+PNAPM		7	2019	SSID	SSID	10	10	5	no	0	
+PNAPM		7	2019	UTEN	otras	10	10	6	no	0	
+PNAPM		7	2019	PAST	otras	20	20	6	no	0	
+PNAPM		7	2019	APAL	otras	4	4	2	no	0	
+PNAPM		7	2019	MCAV	otras	60	40	20	no	20	
+PNAPM		7	2019	UTEN	otras	30	30	20	no	0	
+PNAPM		7	2019	UAGA	otras	20	20	5	no	0	
+PNAPM		7	2019	OFAV	OFAV	60	60	40	si	70	
+PNAPM		5	2019	PAST	otras	10	10	4	no	0	
+PNAPM		5	2019	PAST	otras	10	10	4	no	0	
+PNAPM		5	2019	PAST	otras	10	10	4	no	0	
+PNAPM		5	2019	PAST	otras	10	10	4	no	0	
+PNAPM		5	2019	UAGA	otras	5	5	4	no	0	
+PNAPM		6	2019	UAGA	otras	15	10	5	no	0	
+PNAPM		6	2019	UAGA	otras	10	10	10	no	0	
+PNAPM		6	2019	UAGA	otras	10	10	10	no	0	
+PNAPM		6	2019	UAGA	otras	10	10	10	no	0	
+PNAPM		7	2019	PAST	otras	20	20	6	no	0	
+PNAPM		7	2019	PAST	otras	20	20	6	no	0	
+PNAPM		7	2019	PAST	otras	20	20	6	no	0	
+PNAPM		7	2019	UAGA	otras	20	20	5	no	0	
+PNAPM		7	2019	UAGA	otras	20	20	5	no	0	
+PNAPM		7	2019	UAGA	otras	20	20	5	no	0	
+PNAPM		7	2019	UAGA	otras	20	20	5	no	0	
+PNAPM		7	2019	UAGA	otras	20	20	5	no	0	
+PNAPM		5	2019	PAST	otras	10	10	3	no	0	
+PNAPM		5	2019	PAST	otras	10	10	3	no	0	
+PNAPM		5	2019	PAST	otras	10	10	3	no	0	
+PNAPM		5	2019	PAST	otras	10	10	3	no	0	
+PNAPM		5	2019	PAST	otras	10	10	3	no	0	
+PNAPM		5	2019	PAST	otras	10	10	3	no	0	
+PNAPM		5	2019	PAST	otras	10	10	3	no	0	
+PNAPM		5	2019	PAST	otras	10	10	3	no	0	
+PNAPM		7	2019	OFAV	OFAV	100	100	80	si	90	
+PNAPM		7	2019	OFAV	OFAV	50	50	60	no	0	
+PNAPM		7	2019	PAST	otras	10	10	6	no	0	
+PNAPM		7	2019	UAGA	otras	10	10	3	no	0	
+PNAPM		7	2019	OANN	otras	60	40	100	no	90	
+PNAPM		7	2019	PAST	otras	60	60	20	no	0	
+PNAPM		8	2019	PAST	otras	20	20	4	no	0	
+PNAPM		8	2019	OANN	otras	10	10	20	no	0	
+PNAPM		8	2019	PSTR	PSTR	60	40	40	si	100	
+PNAPM		8	2019	PAST	otras	20	20	10	no	0	
+PNAPM		8	2019	PSTR	PSTR	10	10	10	si	100	
+PNAPM		8	2019	UAGA	otras	20	20	5	no	20	
+PNAPM		8	2019	PSTR	PSTR	30	20	10	si	100	
+PNAPM		8	2019	PAST	otras	60	60	40	no	100	
+PNAPM		8	2019	PAST	otras	10	10	4	no	0	
+PNAPM		8	2019	OFAV	OFAV	10	10	3	no	0	
+PNAPM		8	2019	PSTR	PSTR	30	30	20	si	100	
+PNAPM		8	2019	PAST	otras	10	10	4	no	0	
+PNAPM		8	2019	SINT	otras	10	10	1	no	20	
+PNAPM		8	2019	PAST	otras	20	20	4	no	0	
+PNAPM		8	2019	PAST	otras	20	20	4	no	0	
+PNAPM		8	2019	PAST	otras	10	10	4	no	0	
+PNAPM		8	2019	PAST	otras	10	10	4	no	0	
+PNAPM		8	2019	PAST	otras	10	10	4	no	0	
+PNAPM		9	2019	PAST	otras	10	7	1	no	0	
+PNAPM		9	2019	SINT	otras	10	6	1	no	30	
+PNAPM		9	2019	PAST	otras	10	8	1	no	10	
+PNAPM		9	2019	UAGA	otras	20	20	1	no	0	
+PNAPM		9	2019	UAGA	otras	10	7	2	no	0	
+PNAPM		9	2019	PAST	otras	6	5	1	no	0	
+PNAPM		9	2019	UTEN	otras	34	15	5	no	60	
+PNAPM		9	2019	PAST	otras	6	6	3	no	0	
+PNAPM		9	2019	APAL	otras	8	6	10	no	0	
+PNAPM		9	2019	PAST	otras	7	5	1	no	0	
+PNAPM		9	2019	PAST	otras	30	20	5	no	40	
+PNAPM		9	2019	UAGA	otras	76	20	1	no	10	
+PNAPM		9	2019	PAST	otras	26	25	1	no	30	
+PNAPM		9	2019	PAST	otras	20	20	5	no	25	
+PNAPM		9	2019	UAGA	otras	25	20	5	no	0	
+PNAPM		9	2019	OANN	otras	20	10	25	no	70	
+PNAPM		9	2019	UAGA	otras	25	20	5	no	25	
+PNAPM		9	2019	AHUM	otras	25	20	10	no	30	
+PNAPM		9	2019	SRAD	N/A	10	10	15	no	15	
+PNAPM		9	2019	AHUM	otras	25	20	10	no	13	
+PNAPM		7	2019	SSID	SSID	50	40	20	si	95	
+PNAPM		7	2019	PCLI	otras	40	30	28	no	0	
+PNAPM		7	2019	PAST	otras	8	8	1	no	0	
+PNAPM		7	2019	PAST	otras	10	10	2	no	0	
+PNAPM		7	2019	SRAD	N/A	9	4	1	no	0	
+PNAPM		7	2019	PAST	otras	11	8	3	no	0	
+PNAPM		7	2019	UTEN	otras	200	140	110	no	90	
+PNAPM		7	2019	ISIN	otras	13	13	5	no	0	
+PNAPM		7	2019	PAST	otras	10	10	2	no	0	
+PNAPM		7	2019	PAST	otras	22	10	5	no	0	
+PNAPM		7	2019	OFAV	OFAV	30	20	20	si	40	
+PNAPM		7	2019	SRAD	N/A	8	8	1	no	0	
+PNAPM		7	2019	OFAV	OFAV	40	20	30	si	20	
+PNAPM		8	2019	SSID	SSID	20	20	4	si	15	
+PNAPM		8	2019	PAST	otras	12	10	4	no	0	
+PNAPM		8	2019	PAST	otras	10	10	3	no	0	
+PNAPM		8	2019	PAST	otras	12	10	5	no	10	
+PNAPM		8	2019	PAST	otras	10	10	2	no	0	
+PNAPM		8	2019	PAST	otras	20	18	3	no	0	
+PNAPM		8	2019	PAST	otras	10	8	2	no	0	
+PNAPM		8	2019	UAGA	otras	40	40	20	no	100	
+PNAPM		8	2019	UAGA	otras	10	10	2	no	0	
+PNAPM		8	2019	PAST	otras	12	10	2	no	0	
+PNAPM		8	2019	PAST	otras	5	3	1	no	0	
+PNAPM		8	2019	PAST	otras	50	30	20	no	0	
+PNAPM		8	2019	PAST	otras	15	15	8	no	0	
+PNAPM		8	2019	PAST	otras	20	20	8	no	0	
+PNAPM		8	2019	PAST	otras	10	10	2	no	0	
+PNAPM		8	2019	PAST	otras	10	10	3	no	0	
+PNAPM		8	2019	PAST	otras	5	5	1	no	0	
+PNAPM		9	2019	PAST	otras	30	28	5	no	0	
+PNAPM		9	2019	PAST	otras	10	10	2	no	0	
+PNAPM		9	2019	PAST	otras	10	10	2	no	0	
+PNAPM		9	2019	PSTR	PSTR	145	40	45	si	90	
+PNAPM		9	2019	PAST	otras	32	20	20	no	0	
+PNAPM		9	2019	PSTR	PSTR	50	30	25	si	51	
+PNAPM		9	2019	APRO	N/A	18	10	10	no	0	
+PNAPM		9	2019	APRO	N/A	10	8	8	no	0	
+PNAPM		9	2019	PSTR	PSTR	50	36	40	si	100	
+PNAPM		9	2019	UTEN	otras	20	20	20	no	0	
+PNAPM		9	2019	UTEN	otras	70	50	12	no	30	
+PNAPM		9	2019	PAST	otras	10	10	2	no	0	
+PNAPM		9	2019	PAST	otras	10	10	10	no	0	
+PNAPM		9	2019	UTEN	otras	25	20	10	no	10	
+PNAPM		7	2019	PAST	otras	10	10	2	no	0	
+PNAPM		7	2019	PAST	otras	8	8	1	no	0	
+PNAPM		7	2019	PAST	otras	8	8	1	no	0	
+PNAPM		7	2019	SRAD	N/A	8	8	1	no	0	
+PNAPM		8	2019	UAGA	otras	10	10	2	no	0	
+PNAPM		8	2019	PAST	otras	12	10	2	no	0	
+PNAPM		8	2019	PAST	otras	5	3	1	no	0	
+PNAPM		8	2019	UAGA	otras	10	10	2	no	0	
+PNAPM		8	2019	PAST	otras	5	3	1	no	0	
+PNAPM		9	2019	PAST	otras	10	10	2	no	0	
+PNAPM		9	2019	PAST	otras	10	10	2	no	0	
+PNAPM		9	2019	PAST	otras	10	10	2	no	0	
+PNAPM		9	2019	PAST	otras	10	10	2	no	0	
+PNAPM		9	2019	PAST	otras	10	10	2	no	0	
+PNAPM		9	2019	PAST	otras	10	10	2	no	0	
+PNAPM		9	2019	PAST	otras	10	10	2	no	0	
+PNAPM		9	2019	APAL	otras	60	40	20	no	30	
+PNAPM		9	2019	UTEN	otras	10	10	15	no	0	
+PNAPM		9	2019	OFAV	OFAV	55	46	63	si	15	
+PNAPM		9	2019	UTEN	otras	70	50	40	no	30	
+PNAPM		9	2019	APAL	otras	40	20	10	no	5	
+PNAPM		10	2019	APAL	otras	100	60	40	no	60	
+PNAPM		10	2019	PAST	otras	20	20	3	no	0	
+PNAPM		10	2019	APAL	otras	10	10	4	no	0	
+PNAPM		10	2019	PAST	otras	30	30	10	no	0	
+PNAPM		10	2019	PAST	otras	40	40	5	no	0	
+PNAPM		10	2019	PAST	otras	10	10	2	no	0	
+PNAPM		10	2019	PAST	otras	18	12	4	no	0	
+PNAPM		10	2019	APAL	otras	100	60	40	no	65	
+PNAPM		10	2019	PAST	otras	10	10	3	no	100	
+PNAPM		10	2019	PAST	otras	40	40	10	no	100	
+PNAPM		10	2019	PAST	otras	50	5	1	no	0	
+PNAPM		10	2019	PAST	otras	30	15	10	no	30	
+PNAPM		10	2019	UAGA	otras	50	5	1	no	0	
+PNAPM		11	2019	PAST	otras	20	20	10	no	0	
+PNAPM		11	2019	PSTR	PSTR	50	40	30	no	0	
+PNAPM		11	2019	PSTR	PSTR	20	20	20	no	0	
+PNAPM		11	2019	PSTR	PSTR	30	20	15	no	0	
+PNAPM		11	2019	PAST	otras	20	20	5	no	0	
+PNAPM		11	2019	PSTR	PSTR	50	40	30	si	30	
+PNAPM		11	2019	PAST	otras	10	10	3	no	0	
+PNAPM		11	2019	PAST	otras	20	20	3	no	0	
+PNAPM		11	2019	PAST	otras	20	14	5	no	0	
+PNAPM		11	2019	PAST	otras	10	10	5	no	0	
+PNAPM		11	2019	PAST	otras	12	12	9	no	0	
+PNAPM		11	2019	PAST	otras	20	20	5	no	0	
+PNAPM		11	2019	PAST	otras	5	5	1	no	0	
+PNAPM		11	2019	PAST	otras	20	20	5	no	0	
+PNAPM		11	2019	PAST	otras	10	10	2	no	0	
+PNAPM		11	2019	PAST	otras	20	20	5	no	0	
+PNAPM		11	2019	PAST	otras	20	20	9	no	0	
+PNAPM		11	2019	PAST	otras	10	10	2	no	0	
+PNAPM		11	2019	PAST	otras	12	12	9	no	0	
+PNAPM		11	2019	AHUM	N/A	10	10	2	no	0	
+PNAPM		11	2019	PAST	otras	15	15	4	no	0	
+PNAPM		11	2019	APAL	otras	120	80	60	no	20	
+PNAPM		11	2019	PFUR	otras	14	10	3	no	0	
+PNAPM		11	2019	UAGA	otras	10	10	2	no	0	
+PNAPM		11	2019	UAGA	otras	12	12	2	no	0	
+PNAPM		10	2019	APAL	otras	10	10	4	no	0	
+PNAPM		10	2019	PAST	otras	10	10	2	no	0	
+PNAPM		10	2019	PAST	otras	10	10	2	no	0	
+PNAPM		10	2019	PAST	otras	10	10	2	no	0	
+PNAPM		10	2019	PAST	otras	10	10	2	no	0	
+PNAPM		10	2019	PAST	otras	10	10	2	no	0	
+PNAPM		10	2019	PAST	otras	10	10	2	no	0	
+PNAPM		10	2019	PAST	otras	10	10	2	no	0	
+PNAPM		10	2019	PAST	otras	10	10	2	no	0	
+PNAPM		10	2019	PAST	otras	10	10	2	no	0	
+PNAPM		10	2019	PAST	otras	10	10	2	no	0	
+PNAPM		10	2019	PAST	otras	10	10	2	no	0	
+PNAPM		10	2019	PAST	otras	10	10	2	no	0	
+PNAPM		10	2019	PAST	otras	10	10	2	no	0	
+PNAPM		10	2019	PAST	otras	10	10	3	no	100	
+PNAPM		10	2019	PAST	otras	10	10	3	no	100	
+PNAPM		10	2019	PAST	otras	10	10	3	no	100	
+PNAPM		10	2019	PAST	otras	10	10	3	no	100	
+PNAPM		10	2019	PAST	otras	10	10	3	no	100	
+PNAPM		10	2019	PAST	otras	10	10	3	no	100	
+PNAPM		10	2019	PAST	otras	10	10	3	no	100	
+PNAPM		10	2019	PAST	otras	50	5	1	no	0	
+PNAPM		10	2019	UAGA	otras	50	5	1	no	0	
+PNAPM		11	2019	PAST	otras	5	5	1	no	0	
+PNAPM		10	2019	PAST	otras	50	5	1	no	0	
+PNAPM		10	2019	UAGA	otras	50	5	1	no	0	
+PNAPM		11	2019	PAST	otras	5	5	1	no	0	
+PNAPM		11	2019	PAST	otras	5	5	1	no	0	
+PNAPM		11	2019	PAST	otras	5	5	1	no	0	
+PNAPM		11	2019	PAST	otras	5	5	1	no	0	
+PNAPM		11	2019	PAST	otras	5	5	1	no	0	
+PNAPM		11	2019	PAST	otras	5	5	1	no	0	
+PNAPM		11	2019	PAST	otras	5	5	1	no	0	
+PNAPM		11	2019	PAST	otras	5	5	1	no	0	
+PNAPM		11	2019	PFUR	otras	14	10	3	no	0	
+PNAPM		11	2019	UAGA	otras	10	10	2	no	100	
+PNAPM		11	2019	UAGA	otras	10	10	2	no	100	
+PNAPM		1	2019	PSTR	PSTR	35	30	20	si	60	
+PNAPM		1	2019	MMEA	otras	30	20	10	no	100	
+PNAPM		1	2019	OANN	otras	35	30	30	no	0	
+PNAPM		1	2019	PSTR	PSTR	40	30	30	si	63	
+PNAPM		1	2019	SSID	SSID	30	30	10	si	100	
+PNAPM		1	2019	UAGA	otras	10	10	10	no	0	
+PNAPM		1	2019	UAGA	otras	10	10	10	no	0	
+PNAPM		1	2019	PAST	otras	5	5	2	no	0	
+PNAPM		1	2019	SSID	SSID	10	10	5	si	15	
+PNAPM		1	2019	PAST	otras	20	20	5	no	0	
+PNAPM		1	2019	SRAD	N/A	5	5	5	no	0	
+PNAPM		1	2019	OANN	otras	100	90	100	no	90	
+PNAPM		1	2019	PAST	otras	15	15	5	no	0	
+PNAPM		1	2019	PAST	otras	15	15	5	no	0	
+PNAPM		1	2019	UAGA	otras	30	30	20	no	0	
+PNAPM		1	2019	UAGA	otras	15	15	3	no	0	
+PNAPM		1	2019	UAGA	otras	15	15	3	no	0	
+PNAPM		1	2019	UAGA	otras	15	15	3	no	0	
+PNAPM		1	2019	UAGA	otras	15	15	3	no	0	
+PNAPM		1	2019	OANN	otras	40	20	40	no	100	
+PNAPM		1	2019	OANN	otras	200	100	110	no	30	
+PNAPM		1	2019	PAST	otras	30	20	5	no	0	
+PNAPM		1	2019	SINT	otras	10	10	3	no	0	
+PNAPM		1	2019	ALAM	otras	40	30	5	no	0	
+PNAPM		1	2019	MCAV	otras	40	30	20	no	10	
+PNAPM		1	2019	UTEN	otras	120	120	80	no	30	
+PNAPM		1	2019	UTEN	otras	150	80	80	no	40	
+PNAPM		1	2019	UTEN	otras	20	20	10	no	0	
+PNAPM		1	2019	UTEN	otras	60	40	30	no	80	
+PNAPM		1	2019	UTEN	otras	50	40	30	no	60	
+PNAPM		1	2019	MCAV	otras	50	40	20	no	50	
+PNAPM		1	2019	UTEN	otras	20	20	10	no	0	
+PNAPM		2	2019	PAST	otras	12	12	5	no	0	
+PNAPM		2	2019	UTEN	otras	30	20	10	no	10	
+PNAPM		2	2019	UTEN	otras	50	40	30	no	10	
+PNAPM		2	2019	PPOR	otras	20	20	5	no	0	
+PNAPM		2	2019	PPOR	otras	20	20	5	no	0	
+PNAPM		2	2019	PPOR	otras	20	20	15	no	0	
+PNAPM		2	2019	DLAB	otras	50	40	30	no	50	
+PNAPM		2	2019	SSID	SSID	20	20	3	no	0	
+PNAPM		2	2019	DLAB	otras	70	30	40	no	50	
+PNAPM		2	2019	OFAV	OFAV	60	40	30	no	0	
+PNAPM		2	2019	PPOR	otras	20	20	15	no	0	
+PNAPM		2	2019	APAL	otras	32	15	10	no	0	
+PNAPM		2	2019	APAL	otras	32	15	10	no	0	
+PNAPM		2	2019	PAST	otras	15	15	5	no	0	
+PNAPM		2	2019	OANN	otras	60	50	40	no	90	
+PNAPM		2	2019	OANN	otras	50	50	100	no	60	
+PNAPM		2	2019	SSID	SSID	10	10	10	si	60	
+PNAPM		2	2019	OANN	otras	100	80	60	no	60	
+PNAPM		2	2019	SSID	SSID	50	50	40	si	90	
+PNAPM		2	2019	OANN	otras	12	12	10	no	0	
+PNAPM		2	2019	SSID	SSID	20	20	5	si	60	
+PNAPM		2	2019	SSID	SSID	20	20	10	no	0	
+PNAPM		2	2019	PAST	otras	10	10	10	no	0	
+PNAPM		2	2019	SSID	SSID	30	20	10	no	0	
+PNAPM		2	2019	SSID	SSID	30	20	10	no	0	
+PNAPM		2	2019	OFAV	OFAV	120	70	100	si	95	
+PNAPM		2	2019	OANN	otras	40	40	50	no	60	
+PNAPM		2	2019	OANN	otras	60	50	60	no	60	
+PNAPM		2	2019	UAGA	otras	30	20	10	no	0	
+PNAPM		2	2019	UAGA	otras	30	30	3	no	5	
+PNAPM		2	2019	UTEN	otras	120	60	60	no	30	
+PNAPM		2	2019	SSID	SSID	20	20	10	si	30	
+PNAPM		2	2019	MCAV	otras	35	25	20	no	0	
+PNAPM		2	2019	UAGA	otras	10	10	8	no	0	
+PNAPM		2	2019	APAL	otras	12	12	10	no	0	
+PNAPM		2	2019	PAST	otras	20	20	10	no	0	
+PNAPM		2	2019	UAGA	otras	10	10	2	no	0	
+PNAPM		2	2019	UAGA	otras	10	10	2	no	0	
+PNAPM		2	2019	OFAV	OFAV	90	35	75	no	0	
+PNAPM		2	2019	APAL	otras	20	12	3	no	0	
+PNAPM		2	2019	SSID	SSID	60	40	30	si	40	
+PNAPM		3	2019	OFAV	OFAV	100	50	80	si	90	
+PNAPM		3	2019	APAL	otras	30	20	12	no	0	
+PNAPM		3	2019	PAST	otras	20	20	5	no	0	
+PNAPM		3	2019	PAST	otras	25	20	10	no	0	
+PNAPM		3	2019	APAL	otras	30	20	15	no	0	
+PNAPM		3	2019	UTEN	otras	30	30	20	no	0	
+PNAPM		3	2019	APAL	otras	30	20	10	no	0	
+PNAPM		3	2019	PAST	otras	15	12	5	no	23	
+PNAPM		3	2019	UTEN	otras	12	12	10	no	0	
+PNAPM		3	2019	OFAV	OFAV	60	30	40	no	0	
+PNAPM		3	2019	OFAV	OFAV	70	40	60	no	5	
+PNAPM		3	2019	OFAV	OFAV	100	30	70	no	0	
+PNAPM		3	2019	MCAV	otras	30	30	20	no	20	
+PNAPM		3	2019	SSID	SSID	10	10	5	si	20	
+PNAPM		3	2019	OFAV	OFAV	140	90	40	si	50	
+PNAPM		3	2019	APAL	otras	15	10	10	no	0	
+PNAPM		3	2019	SSID	SSID	10	10	3	no	0	
+PNAPM		3	2019	SSID	SSID	20	20	5	no	0	
+PNAPM		3	2019	PAST	otras	20	20	3	no	0	
+PNAPM		3	2019	PAST	otras	20	20	3	no	0	
+PNAPM		3	2019	PAST	otras	20	20	3	no	0	
+PNAPM		3	2019	PAST	otras	20	20	3	no	0	
+PNAPM		3	2019	PAST	otras	30	20	10	no	0	
+PNAPM		4	2019	UTEN	otras	30	20	10	no	0	
+PNAPM		4	2019	PAST	otras	5	5	1	no	0	
+PNAPM		4	2019	SINT	otras	70	30	10	no	0	
+PNAPM		4	2019	PAST	otras	10	10	3	no	10	
+PNAPM		4	2019	SSID	SSID	20	20	7	no	0	
+PNAPM		4	2019	MCAV	otras	10	10	5	no	0	
+PNAPM		4	2019	SSID	SSID	10	10	3	si	80	
+PNAPM		4	2019	PAST	otras	10	10	3	no	0	
+PNAPM		4	2019	PSTR	PSTR	10	8	2	no	0	
+PNAPM		4	2019	PAST	otras	20	10	5	no	0	
+PNAPM		4	2019	SSID	SSID	10	10	1	no	0	
+PNAPM		4	2019	SSID	SSID	15	10	1	si	30	
+PNAPM		4	2019	PAST	otras	12	10	3	no	0	
+PNAPM		4	2019	PAST	otras	20	15	3	no	0	
+PNAPM		4	2019	SSID	SSID	30	30	5	si	99	
+PNAPM		4	2019	SSID	SSID	10	10	2	no	0	
+PNAPM		4	2019	PAST	otras	10	10	1	no	0	
+PNAPM		4	2019	PAST	otras	10	10	1	no	0	
+PNAPM		4	2019	PAST	otras	20	10	3	no	10	
+PNAPM		4	2019	PAST	otras	15	15	3	no	100	
+PNAPM		4	2019	PAST	otras	10	10	2	no	0	
+PNAPM		4	2019	OFAV	OFAV	20	10	20	no	10	
+PNAPM		4	2019	OFAV	OFAV	20	10	15	si	100	
+PNAPM		4	2019	OFAV	OFAV	10	10	10	si	100	
+PNAPM		5	2019	OFAV	OFAV	90	60	80	no	10	
+PNAPM		5	2019	SSID	SSID	10	10	1	no	0	
+PNAPM		5	2019	MCAV	otras	20	10	20	no	0	
+PNAPM		5	2019	SSID	SSID	10	10	10	no	0	
+PNAPM		5	2019	PAST	otras	10	10	5	no	0	
+PNAPM		5	2019	UAGA	otras	10	5	15	no	0	
+PNAPM		5	2019	UAGA	otras	20	10	7	no	0	
+PNAPM		5	2019	OANN	otras	50	50	50	no	40	
+PNAPM		5	2019	PSTR	PSTR	50	30	50	si	100	
+PNAPM		6	2019	OFAV	OFAV	100	100	180	no	13	
+PNAPM		6	2019	PAST	otras	10	10	1	no	0	
+PNAPM		6	2019	PAST	otras	20	15	1	no	0	
+PNAPM		6	2019	PAST	otras	25	25	5	no	0	
+PNAPM		6	2019	PAST	otras	10	10	5	no	0	
+PNAPM		6	2019	UAGA	otras	5	5	5	no	0	
+PNAPM		6	2019	UAGA	otras	20	20	1	no	0	
+PNAPM		6	2019	SSID	SSID	50	40	30	si	70	
+PNAPM		6	2019	PSTR	PSTR	20	20	10	si	70	
+PNAPM		6	2019	SSID	SSID	10	10	1	no	0	
+PNAPM		6	2019	PAST	otras	10	10	1	no	0	
+PNAPM		6	2019	PAST	otras	15	15	4	no	0	
+PNAPM		6	2019	PAST	otras	4	4	1	no	0	
+PNAPM		6	2019	PAST	otras	20	20	1	no	0	
+PNAPM		6	2019	OFRA	otras	5	5	12	no	0	
+PNAPM		7	2019	PSTR	PSTR	40	10	10	si	70	
+PNAPM		7	2019	PAST	otras	40	20	40	no	100	
+PNAPM		7	2019	UAGA	otras	20	15	10	no	0	
+PNAPM		7	2019	UAGA	otras	10	10	5	no	0	
+PNAPM		7	2019	UAGA	otras	70	10	5	no	0	
+PNAPM		7	2019	UAGA	otras	10	10	10	no	0	
+PNAPM		7	2019	PAST	otras	10	10	3	no	0	
+PNAPM		7	2019	UAGA	otras	40	20	15	no	10	
+PNAPM		7	2019	SSID	SSID	20	20	10	si	15	
+PNAPM		7	2019	UAGA	otras	15	15	4	no	0	
+PNAPM		7	2019	PAST	otras	5	5	7	no	0	
+PNAPM		7	2019	PAST	otras	25	20	10	no	0	
+PNAPM		7	2019	UAGA	otras	5	5	5	no	0	
+PNAPM		7	2019	SSID	SSID	10	10	1	no	0	
+PNAPM		7	2019	SSID	SSID	10	10	1	si	100	
+PNAPM		7	2019	SSID	SSID	20	20	7	si	15	
+PNAPM		7	2019	UAGA	otras	10	10	10	no	0	
+PNAPM		7	2019	UAGA	otras	10	5	5	no	0	
+PNAPM		7	2019	SSID	SSID	20	20	3	no	0	
+PNAPM		7	2019	SSID	SSID	15	15	3	si	20	
+PNAPM		7	2019	SRAD	N/A	5	5	1	no	0	
+PNAPM		7	2019	SSID	SSID	10	10	1	no	0	
+PNAPM		7	2019	SSID	SSID	10	10	1	si	90	
+PNAPM		7	2019	SRAD	N/A	5	5	1	no	0	
+PNAPM		8	2019	PAST	otras	20	20	3	no	0	
+PNAPM		8	2019	PAST	otras	8	8	3	no	0	
+PNAPM		8	2019	PAST	otras	8	8	3	no	0	
+PNAPM		8	2019	SSID	SSID	5	5	3	no	0	
+PNAPM		8	2019	UAGA	otras	10	10	3	no	0	
+PNAPM		8	2019	UAGA	otras	10	10	3	no	0	
+PNAPM		8	2019	SSID	SSID	20	20	3	si	100	
+PNAPM		8	2019	SSID	SSID	20	15	1	si	60	
+PNAPM		8	2019	SSID	SSID	20	10	3	si	50	
+PNAPM		8	2019	SSID	SSID	30	30	3	si	70	
+PNAPM		8	2019	SSID	SSID	40	40	1	no	0	
+PNAPM		8	2019	OANN	otras	30	20	50	no	0	
+PNAPM		8	2019	SSID	SSID	10	10	3	si	90	
+PNAPM		8	2019	PAST	otras	10	10	15	no	0	
+PNAPM		8	2019	UAGA	otras	10	10	3	no	0	
+PNAPM		8	2019	PSTR	PSTR	30	30	27	si	30	
+PNAPM		8	2019	PAST	otras	10	10	5	no	0	
+PNAPM		8	2019	UAGA	otras	5	5	3	no	0	
+PNAPM		8	2019	PSTR	PSTR	35	10	40	si	30	
+PNAPM		8	2019	SSID	SSID	25	20	10	si	70	
+PNAPM		8	2019	MCAV	otras	30	20	35	no	30	
+PNAPM		8	2019	SSID	SSID	30	20	15	si	98	
+PNAPM		8	2019	UAGA	otras	10	10	5	no	50	
+PNAPM		8	2019	PSTR	PSTR	8	5	2	no	0	
+PNAPM		8	2019	PAST	otras	15	10	3	no	0	
+PNAPM		8	2019	PSTR	PSTR	8	8	1	no	0	
+PNAPM		8	2019	PAST	otras	10	10	5	no	0	
+PNAPM		8	2019	OANN	otras	60	35	30	no	90	
+PNAPM		8	2019	PAST	otras	20	10	3	no	0	
+PNAPM		8	2019	SINT	otras	10	10	1	no	0	
+PNAPM		8	2019	PAST	otras	10	10	10	no	0	
+PNAPM		8	2019	PSTR	PSTR	60	40	45	si	33	
+PNAPM		8	2019	PSTR	PSTR	80	20	50	si	60	
+PNAPM		8	2019	UAGA	otras	12	10	3	no	0	
+PNAPM		8	2019	PSTR	PSTR	12	12	20	si	100	
+PNAPM		4	2019	PSTR	PSTR	n/a	n/a	n/a	no	0	no mesure
+PNAPM		5	2019	PSTR	PSTR	n/a	n/a	n/a	no	0	no mesure
+PNAPM		6	2019	PSTR	PSTR	n/a	n/a	n/a	no	0	no mesure
+PNAPM		7	2019	PSTR	PSTR	n/a	n/a	n/a	no	0	no mesure
+PNAPM		8	2019	PSTR	PSTR	n/a	n/a	n/a	no	0	no mesure
+PNAPM		5	2019	OFAV	OFAV	n/a	n/a	n/a	no	10	no mesure
